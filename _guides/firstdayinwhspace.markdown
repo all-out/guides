@@ -25,9 +25,9 @@ excerpt: >
 
     2. WHs will collapse after x kg has gone through. again check the info of the wormhole to see if the wormhole max mass is already at critical degree
 
-  - Wormhole-Space gets classified in Classes. C1 (easiest) to C6 (hardest). Look up the J-Number at http://wh.pasta.gg/ to get the Class and Statics of a WH
+- Wormhole-Space gets classified in Classes. C1 (easiest) to C6 (hardest). Look up the J-Number at http://wh.pasta.gg/ to get the Class and Statics of a WH
 
-  - Wormhole-Statics: Every WH-Space got atlest 1 Static. For example our new Home got a Highsec-Static. Means that there always will be a Highsec exit.
+-  Wormhole-Statics: Every WH-Space got atlest 1 Static. For example our new Home got a Highsec-Static. Means that there always will be a Highsec exit.
 
 ## Navigation in Wormhole-Space
 
