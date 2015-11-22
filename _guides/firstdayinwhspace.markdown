@@ -21,9 +21,9 @@ excerpt: >
 
 - Wormholes do have 2 kinds of mass limits
 
-  - 1. you can enter some WHs with ships that have a mass less than x kg. you can find a hint in the info of the wormhole. use google to find out what exactly it means for the mass
+    1. you can enter some WHs with ships that have a mass less than x kg. you can find a hint in the info of the wormhole. use google to find out what exactly it means for the mass
 
-  - 2. WHs will collapse after x kg has gone through. again check the info of the wormhole to see if the wormhole max mass is already at critical degree
+    2. WHs will collapse after x kg has gone through. again check the info of the wormhole to see if the wormhole max mass is already at critical degree
 
   - Wormhole-Space gets classified in Classes. C1 (easiest) to C6 (hardest). Look up the J-Number at http://wh.pasta.gg/ to get the Class and Statics of a WH
 
