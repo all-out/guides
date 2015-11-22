@@ -54,6 +54,8 @@ excerpt: >
   - check google bevor entering a site to see the loot and what npcs you will find there
 
   - for c3s go for a gila or a tengu. fits can be found in corp fittings HIT FUCKING DSCAN WHILE DOING COMBAT SITES carry a mobile depot with warpcore stabs to refit in case you get caught by a ship that is dscan immune
+  
+  - for good ISK/h and "secure" site running I also recommend RR (Remote Rep) Domis. Can easily do c3s with 2 pilots.
 
 - Mining
 
@@ -66,4 +68,4 @@ excerpt: >
   - easy stuff. for the lazy guys, mostly passive income. set up a command center and get ressources even while being offline. haul your shit out and maintain your commmand centers once in a while.
 
 
-### Many guides about Wormholes, moneymaking etc. can be found via Google. And always feel free to ask in Slack.
+#### Many guides about Wormholes, moneymaking etc. can be found via Google. And always feel free to ask in Slack.
