@@ -65,4 +65,5 @@ excerpt: >
 
   - easy stuff. for the lazy guys, mostly passive income. set up a command center and get ressources even while being offline. haul your shit out and maintain your commmand centers once in a while.
 
-  Many guides about this can be found via Google. Or ask in Slack.
+
+### Many guides about Wormholes, moneymaking etc. can be found via Google. And always feel free to ask in Slack.
