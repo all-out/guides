@@ -7,7 +7,7 @@ layout: default
 <div class="list-group">
 
   {% for guide in site.guides %}
-    <a href="{{ guide.url }}" class="list-group-item" target="">
+    <a href="{{ site.baseurl }}{{ guide.url }}" class="list-group-item" target="">
       <h4 class="list-group-item-heading">{{ guide.shorttitle }}</h4>
       <p class="list-group-item-text">{{ guide.excerpt }}</p>
     </a>
