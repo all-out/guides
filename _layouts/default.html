@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="body-contents"> <!-- tearaway footer body wrapper -->
+
+      {% include header.html %}
+
+      <div id="content" class="container">
+
+        {{ content }}
+
+      </div>
+
+
+      {% include footer.html %}
+
+    </div>
+
+    <script type="text/javascript" src="/bootstrap/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+
+</html>
