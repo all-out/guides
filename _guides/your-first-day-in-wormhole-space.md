@@ -1,7 +1,7 @@
 ---
 layout: guide
-title: General All-Out Guide to Wormhole Space
-shorttitle: YourFirstDayinWHSpace
+title: All-Out Guide to Your First Day In Wormhole Space
+shorttitle: Your First Day In Wormhole Space
 author: Syco Phantic
 excerpt: >
   This is a short guide to Wormholes.
