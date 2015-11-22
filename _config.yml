@@ -7,9 +7,13 @@
 
 # Site settings
 title: All-Out
-description: > # this means to ignore newlines until the next variable
+description: >
   Set-up guides to get you up to speed in All-Out - New Eden's best worst
   wormhole corporation.
+collections:
+  guides:
+    output: true
+    permalink: /:path/
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 

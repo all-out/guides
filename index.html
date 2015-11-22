@@ -2,44 +2,14 @@
 layout: default
 ---
 
-<div id="content" class="container">
-  <img class="center-block" src="all-out.png">
-  <h1 class="text-center">All-Out Guides</h1>
-  <div class="list-group">
+{% include logo-title.html title="All-Out Guides" %}
 
-    <a href="#" class="list-group-item disabled" target="">
-      <h4 class="list-group-item-heading">New Members: Read This First! (Incomplete)</h4>
-      <p class="list-group-item-text">
+<div class="list-group">
 
-        This is a quick overview of some things you should do right
-        now or that you should know exist.  It will direct you to
-        more detailed information where necessary.
-
-      </p>
+  {% for guide in site.guides %}
+    <a href="{{ guide.url }}" class="list-group-item" target="">
+      <h4 class="list-group-item-heading">{{ guide.shorttitle }}</h4>
+      <p class="list-group-item-text">{{ guide.excerpt }}</p>
     </a>
-
-    <a href="#" class="list-group-item disabled" target="">
-      <h4 class="list-group-item-heading">Vippy (Incomplete)</h4>
-      <p class="list-group-item-text">
-
-        Overview of our wormhole mapping software.  Our ability to
-        make good decisions and recognize when content and ISK is
-        available depends on your ability to correctly use this
-        tool.
-
-      </p>
-    </a>
-
-    <a href="https://docs.google.com/document/d/1tUmf1DUIEFTJu_iSDGIPMgScz-MQDuaI6LRAH7141rM/edit?usp=sharing" class="list-group-item" target="_blank">
-      <h4 class="list-group-item-heading">Bookmarks</h4>
-      <p class="list-group-item-text">
-
-        Details of our wormhole chain bookmark naming system.  If
-        you learn to recognize and name systems quickly and
-        correctly, you will be able to navigate  through our chains
-        with very little effort.
-
-      </p>
-    </a>
-  </div>
+  {% endfor %}
 </div>
