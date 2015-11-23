@@ -1,5 +1,6 @@
 ---
 layout: guide
+disabled: true
 title: All-Out Onboarding Guide
 shorttitle: Read This First! (placeholder)
 author: Mussah Yacoub

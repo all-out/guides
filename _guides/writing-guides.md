@@ -1,5 +1,6 @@
 ---
 layout: guide
+disabled: false
 title: All-Out Guide to Writing All-Out Guides
 shorttitle: Writing Guides (in progress)
 author: Mussah Yacoub
@@ -33,6 +34,7 @@ metadata of the document. Example:
 {% highlight yaml %}
 ---
 layout: guide                       # renders page using the "guide" template
+disabled: false                     # greys out guide on list if set to "true"
 title: All-Out Guide to Something   # big title at the top of the page
 shorttitle: Something               # small title in list of guides
 author: John Doe                    # your character's name

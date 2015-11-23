@@ -1,5 +1,6 @@
 ---
 layout: guide
+disabled: false
 title: All-Out Guide to Bookmarks
 shorttitle: Bookmarks
 author: Mussah Yacoub
