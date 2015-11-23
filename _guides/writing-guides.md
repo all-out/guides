@@ -54,7 +54,7 @@ this is very similiar.
 - [kramdown quick-ref](http://kramdown.gettalong.org/quickref.html): List of
 syntax you can use
 
-- [writing-guide.md](https://raw.githubusercontent.com/all-out/guides/master/_guides/bookmarks.md):
+- [writing-guide.md](https://raw.githubusercontent.com/all-out/guides/gh-pages/_guides/writing-guides.md):
 the source file of this page, for examples and reference
 
 #### Notes about Content:
@@ -89,3 +89,9 @@ syntax of Markdown to define it so that hovering it shows what it is.
 *[SAAR]: small ancillary armor repair
 *[XLASB]: extra-large ancillary shield booster
 *[POS]: player-owned starbase
+
+## Submitting
+
+[section to be written]
+
+[atm basically contact Mussah or Syco]
