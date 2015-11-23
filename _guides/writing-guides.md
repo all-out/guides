@@ -80,3 +80,10 @@ the thing you are describing, go ahead and link it!
 - Make use of formatting.  Headers, subheaders and subsubheaders are helpful,
 but don't forget lists (bullets and numbers), tables, images, and `code
 blocks`. Bold **key words**.  Italicize for *emphasis*.
+
+- If you use an abbreviation like SAAR or XLASB or POS, please use the abbreviation
+syntax of Markdown to define it so that hovering it shows what it is.
+
+*[SAAR]: small ancillary armor repair
+*[XLASB]: extra-large ancillary shield booster
+*[POS]: player-owned starbase
