@@ -1,5 +1,6 @@
 ---
 layout: guide
+disabled: true
 title: All-Out Guide to Vippy
 shorttitle: Vippy (placeholder)
 author: Mussah Yacoub

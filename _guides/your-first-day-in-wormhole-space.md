@@ -1,5 +1,6 @@
 ---
 layout: guide
+disabled: false
 title: All-Out Guide to Your First Day In Wormhole Space
 shorttitle: Your First Day In Wormhole Space
 author: Syco Phantic
