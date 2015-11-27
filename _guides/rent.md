@@ -51,3 +51,6 @@ Miscellaneous expenses include but are not limited to:
     - Scales down with activity levels (below a certain threshold, we go bankrupt).
     - Because taxation is not automatic, puts a lot of work on leadership to keep track of all sites being run and making sure the appropriate payments are being made.
     - When (inevitably) leadership is not present, depends on the goodwill of members to donate the taxed portion to corp (again, bad business sense).
+
+
+*[POS]: Player Owned Starbase
