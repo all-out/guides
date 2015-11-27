@@ -30,6 +30,7 @@ Assets belonging to members who go inactive or miss payments will be moved out t
 This comes to a total operating cost of 1.3b a month.
 
 Miscellaneous expenses include but are not limited to:
+
 - Subsidizing hole-rolling ships
 - Subsidizing home-defense ships
 - Subsidizing cheap roaming ships
