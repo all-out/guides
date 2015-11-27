@@ -8,7 +8,7 @@ excerpt: >
   How the All-Out Wallet gets enough money to pay for our tower fuel, mapping tool, and miscellaneous corp expenses.
 ---
 
-# Basic Information
+## Basic Information
 
 To live in an All-Out POS, you must pay rent.
 
@@ -18,7 +18,7 @@ Renters have until the end of that month to pay the specified amount.
 
 Assets belonging to members who go inactive or miss payments will be moved out to high sec for retrieval at their leisure.
 
-# Operating Expenses
+## Operating Expenses
 
 | Name          | Cost/Month |
 |---------------|------------|
@@ -34,7 +34,7 @@ Miscellaneous expenses include but are not limited to:
 - Subsidizing home-defense ships
 - Subsidizing cheap roaming ships
 
-# Considered and Discarded Alternatives
+## Considered and Discarded Alternatives
 
 - Taxing home sleeper sites (or giving all home sites to corp).
   - Pros:
