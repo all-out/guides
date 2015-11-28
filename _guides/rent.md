@@ -1,11 +1,11 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Corp Rent
 shorttitle: Rent
 author: Mussah Yacoub
 excerpt: >
-  How the All-Out Wallet gets enough money to pay for our tower fuel, mapping tool, and miscellaneous corp expenses.
+  Living in wormholes costs ISK.  This details how members contribute to the corp such that it has enough enough money to pay fuel, mapping tool, and miscellaneous corp expenses.
 ---
 
 ## Basic Information
@@ -14,7 +14,7 @@ To live in an All-Out POS, you must pay rent.
 
 Rent amount is calculated as **All-Out Operating Expenses** / **Number of Members Living in All-Out POS** and sent out as a corp mail around the first of each month.
 
-Renters have until the end of that month to pay the specified amount.
+Renters have until the end of the month to pay.
 
 Assets belonging to members who go inactive or miss payments will be moved out to high sec for retrieval at their leisure.
 
@@ -34,6 +34,10 @@ Miscellaneous expenses include but are not limited to:
 - Subsidizing hole-rolling ships
 - Subsidizing home-defense ships
 - Subsidizing cheap roaming ships
+
+## I Can't Afford This
+
+You probably can.  If nothing else, join our Planetary Interaction program - at our usual member activity levels, this should cover your rent with ISK to spare.  Relic exploration is also a simple way of making ISK (not to mention finding content in our chains on the side).  Ask in Slack for more ideas if neither of those float your boat.
 
 ## Considered and Discarded Alternatives
 
