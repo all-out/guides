@@ -38,7 +38,7 @@ excerpt: >
 
 - make Safe-Spots (warp from a celestial (i.e. a Planet) to another) and open "Save Location" (Ctrl + B) press "Save" to create a Save Mid-Warp.
 
-- use Tripwire to find the wormhole, to map other wormholes and to find an exit. there is a guide in the corp bulletins (in game)
+- use vippy to find the wormhole, to map other wormholes and to find an exit.
 
 ## Making Money in Wormhole-Space
 
