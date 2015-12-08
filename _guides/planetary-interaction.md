@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Planetary Interaction
 shorttitle: Planetary Interaction
 author: Mussah Yacoub
