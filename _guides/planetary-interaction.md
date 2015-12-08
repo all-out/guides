@@ -16,10 +16,15 @@ Note: This page isn't a general-purpose guide to PI.  These instructions are spe
 
 ## Starting Skill Requirements
 
+- You need `Command Center Upgrades IV` in order to have enough fitting space to build the formations we need.  CCU III doesn't cut it, sorry.
+- `Interplanetary Consolidation II` allows you to build on three planets, which is enough for our home (we have four planets, but the last one isn't so good for extraction and is a duplicate).
+- `Planetology III` for reasonably accurate scanning for resources
+  - `Remote Sensing III` is a prereq for Planetology
+
 ![Layout of extractors and factories]({{site.baseurl}}/img/piskills.png)
 {: .text-center}
 
-## Setting Your Structures Up
+## I've Got My Skills, Time to Build
 
 ### Lava and Barren Planets
 
@@ -64,13 +69,13 @@ If you want to help out more, ask [Eddie Miromme](http://evewho.com/pilot/Eddie+
 - With IPC III, you coulud run manufacturing on Planet IV
 - With IPC IV or V, you could run manufacturing on additional hisec planets near tradehubs
 
-### What Do I Do With My Shit To Get Paid
+## Now I Have All This Shit, How Do I Get Paid
 
 Simply drop your materials into Division 6 of the Tengoo Fun Club tower and wait for money to show up in your wallet.
 
 The current plan is for Eddie to evaluate net profits from his production pipeline and distribute dividends to participants on a monthly basis.  Dividends are weighted by number of characters (if you are running two characters you get 2x what someone with one character does).
 
 *[CCU]: Command Center Upgrades
-*[IPC]: Interplanetary Consolidation
+*[IPC]: Interplanetary Consolidatoin
 *[SP]: Skill Points
 *[PI]: Planetary Interaction
