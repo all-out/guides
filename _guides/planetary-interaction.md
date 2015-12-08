@@ -10,13 +10,37 @@ excerpt: >
 
 ## Introduction
 
-This is not a general-purpose guide to PI.  These instructions are specifically designed for the planets in *our* hole.  They are also designed to maximise profits by leveraging the manufacture of several complementary basic products that can be combined into more profitable higher tier products.  They are probably *not* the best instructions for people with access to different planets or who have fewer or greater characters involved.
+Planetary Interaction is an activity that can be started with a very moderate SP investment, does not require much effort to maintain, and scales beautifully with more characters (that is to say: more characters means a lot more return for only a little more work).  Add to this that we live in wormholes, which have the best PI yield in the game, and there's no reason you shouldn't participate.  It's free money.
 
-## Instructions
+Note: This page isn't a general-purpose guide to PI.  These instructions are specifically designed for the planets in *our* hole.  They are also designed to maximise profits by leveraging the manufacture of several complementary basic products that can be combined into more profitable higher tier products.  They are probably *not* the best instructions for people with access to different planets or numbers of active characters.
 
-Each participating character is responsible for producing three different types of materials on three of our four planets.
+## Starting Skill Requirements
 
-### Player Responsibilities
+![Layout of extractors and factories]({{site.baseurl}}/img/piskills.png)
+{: .text-center}
+
+## Setting Your Structures Up
+
+### Lava and Barren Planets
+
+You need a single extractor with ten heads, a launchpad and 9 factories.  The link between the extractor and the launchpad needs to be upgraded to "Upgrade Level VI - Expedited" in order to allow the volume of raw material you will be picking up to be stored in the launchpad.  Aim for an average of 60,000/hour raw material; try to avoid going below 54,000/hour.  Daily cycles recommended.
+
+### Gas Planet
+
+Planet III is the smaller gas planet so it's better for resource extraction than Planet IV.  You need a single extractor with 10 heads, a launchpad, and as many factories as you can build - probably 5, maybe 6.  Aim for an average of 38,000/hour raw material; try to avoid going below 32,000/hour.  Daily cycles recommended.
+
+### Structure Placement
+
+Placement is *important*.  Pixels of placement on a hotspot will affect the amount a head can extract.  Keep the links between your structures as short as you can (by placing your structures as close to each other as possible).  Each link takes up fitting proportional to its length; making them longer than necessary uses fitting room needed to build structures.  **N.B.**: The links connecting extractor heads and the extractor do *not* use any fitting resources.
+
+![Layout of extractors and factories]({{site.baseurl}}/img/pi.png)
+{: .text-center}
+
+### Who Does What
+
+#### Basic Participation
+
+Each character is responsible for producing three different types of materials on three of our four planets.  Please keep [Eddie Miromme](http://evewho.com/pilot/Eddie+Miromme) in the loop about what's going on - what you are actually extracting, what you _intend_ to extract when you get around to it, if you want to add/remove characters, etc.  This allows us to plan and figure out what to assign to new people when they come in.
 
 | Character | Player                         | Planet I (Lava)   | Planet II (Barren) | Planet III (Gas - Extraction) | Planet IV (Gas - Manufacture) |
 |-----------|--------------------------------|-------------------|--------------------|-------------------------------|-------------------------------|
@@ -30,24 +54,23 @@ Each participating character is responsible for producing three different types 
 | H         | John Freechman                 | Reactive Metals   | Precious Metals    | Water                         |                               |
 | I         | John Freechman                 | Silicon           | Reactive Metals    | Oxidizing Compound            |                               |
 | J         | John Freechman                 | Toxic Metals      | Reactive Metals    | Water                         |                               |
+| K         | This could be you!             |                   |                    |                               |                               |
 {: class="table"}
 
-### Goals
+#### Advanced Participation
 
-#### Lava and Barren Planets
+If you want to help out more, ask [Eddie Miromme](http://evewho.com/pilot/Eddie+Miromme) what needs doing to widen some of our bottlenecks.  Ideas:
 
-You need a single extractor with ten heads, a launchpad and 9 factories.  The link between the extractor and the launchpad needs to be upgraded to "Upgrade Level VI - Expedited" in order to allow the volume of raw material you will be picking up to be stored in the launchpad.  Aim for an average of 60,000/hour raw material; try to avoid going below 54,000/hour.  Daily cycles recommended.
+- With IPC III, you coulud run manufacturing on Planet IV
+- With IPC IV or V, you could run manufacturing on additional hisec planets near tradehubs
 
-#### Gas Planet
+### What Do I Do With My Shit To Get Paid
 
-Planet III is the smaller gas planet so it's better for resource extraction.  You need a single extractor with 10 heads, a launchpad, and as many factories as you can build - probably 5, maybe 6.  Aim for an average of 38,000/hour raw material; try to avoid going below 32,000/hour.  Daily cycles recommended.
+Simply drop your materials into Division 6 of the Tengoo Fun Club tower and wait for money to show up in your wallet.
 
-### Structure Placement
-
-Placement is *important*.  Pixels of placement on a hotspot will affect the amount a head can extract.  Keep the links between your structures as short as you can (by placing your structures as close to each other as possible).  Each link takes up fitting proportional to its length; making them longer than necessary uses fitting room needed to build structures.  **N.B.**: The links connecting extractor heads and the extractor do *not* use any fitting resources.
-
-![Layout of extractors and factories]({{site.baseurl}}/img/pi.png)
-{: .text-center}
-
+The current plan is for Eddie to evaluate net profits from his production pipeline and distribute dividends to participants on a monthly basis.  Dividends are weighted by number of characters (if you are running two characters you get 2x what someone with one character does).
 
 *[CCU]: Command Center Upgrades
+*[IPC]: Interplanetary Consolidatoin
+*[SP]: Skill Points
+*[PI]: Planetary Interaction
