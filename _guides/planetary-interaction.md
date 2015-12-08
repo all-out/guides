@@ -71,6 +71,6 @@ Simply drop your materials into Division 6 of the Tengoo Fun Club tower and wait
 The current plan is for Eddie to evaluate net profits from his production pipeline and distribute dividends to participants on a monthly basis.  Dividends are weighted by number of characters (if you are running two characters you get 2x what someone with one character does).
 
 *[CCU]: Command Center Upgrades
-*[IPC]: Interplanetary Consolidatoin
+*[IPC]: Interplanetary Consolidation
 *[SP]: Skill Points
 *[PI]: Planetary Interaction
