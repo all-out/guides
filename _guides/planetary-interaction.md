@@ -16,8 +16,8 @@ Note: This page isn't a general-purpose guide to PI.  These instructions are spe
 
 ## Starting Skill Requirements
 
-- `Command Center Upgrades IV` is needed to have enough fitting space to build our formations.  Level III can't cut it, sorry.
-- `Interplanetary Consolidation II` allows building on 3 planets, which is enough for our home (we have 4 planets, but the last one isn't so good for extraction and is a dupe).
+- `Command Center Upgrades IV` gives enough fitting space to build our formations.  Level III can't cut it, sorry.
+- `Interplanetary Consolidation II` allows using 3 planets, which is enough for us (we have 4 planets, but IV is too big for good extraction and is a dupe type).
 - `Planetology III` for reasonably accurate resource scanning.
   - `Remote Sensing III` is a prereq for Planetology.
 
@@ -76,6 +76,6 @@ Simply drop your materials into Division 6 of the Tengoo Fun Club tower and wait
 The current plan is for Eddie to evaluate net profits from his production pipeline and distribute dividends to participants on a monthly basis.  Dividends are weighted by number of characters (if you are running two characters you get 2x what someone with one character does).
 
 *[CCU]: Command Center Upgrades
-*[IPC]: Interplanetary Consolidatoin
+*[IPC]: Interplanetary Consolidation
 *[SP]: Skill Points
 *[PI]: Planetary Interaction
