@@ -16,10 +16,10 @@ Note: This page isn't a general-purpose guide to PI.  These instructions are spe
 
 ## Starting Skill Requirements
 
-- You need `Command Center Upgrades IV` in order to have enough fitting space to build the formations we need.  CCU III doesn't cut it, sorry.
-- `Interplanetary Consolidation II` allows you to build on three planets, which is enough for our home (we have four planets, but the last one isn't so good for extraction and is a duplicate).
-- `Planetology III` for reasonably accurate scanning for resources
-  - `Remote Sensing III` is a prereq for Planetology
+- `Command Center Upgrades IV` is needed to have enough fitting space to build our formations.  Level III can't cut it, sorry.
+- `Interplanetary Consolidation II` allows building on 3 planets, which is enough for our home (we have 4 planets, but the last one isn't so good for extraction and is a dupe).
+- `Planetology III` for reasonably accurate resource scanning.
+  - `Remote Sensing III` is a prereq for Planetology.
 
 ![Layout of extractors and factories]({{site.baseurl}}/img/piskills.png)
 {: .text-center}
