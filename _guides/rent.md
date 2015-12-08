@@ -26,6 +26,7 @@ Assets belonging to members who go inactive or miss payments will be moved out t
 | Tower 2 fuel  | 400m       |
 | Vippy         | 300m       |
 | Miscellaneous | 200m       |
+{: class="table"}
 
 This comes to a total operating cost of 1.3b a month.
 
