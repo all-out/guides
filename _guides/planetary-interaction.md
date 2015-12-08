@@ -8,15 +8,15 @@ excerpt: >
   All the information you need to set up planetary interaction in our home wormhole so as to maximize profits by cooperating with others.
 ---
 
-# Introduction
+## Introduction
 
 This is not a general-purpose guide to PI.  These instructions are specifically designed for the planets in *our* hole.  They are also designed to maximise profits by leveraging the manufacture of several complementary basic products that can be combined into more profitable higher tier products.  They are probably *not* the best instructions for people with access to different planets or who have fewer or greater characters involved.
 
-# Instructions
+## Instructions
 
 Each participating character is responsible for producing three different types of materials on three of our four planets.
 
-## Player Responsibilities
+### Player Responsibilities
 
 | Character | Player                         | Planet I (Lava)   | Planet II (Barren) | Planet III (Gas - Extraction) | Planet IV (Gas - Manufacture) |
 |-----------|--------------------------------|-------------------|--------------------|-------------------------------|-------------------------------|
@@ -31,17 +31,17 @@ Each participating character is responsible for producing three different types 
 | I         | John Freechman                 | Silicon           | Reactive Metals    | Oxidizing Compound            |                               |
 | J         | John Freechman                 | Toxic Metals      | Reactive Metals    | Water                         |                               |
 
-## Goals
+### Goals
 
-### Lava and Barren Planets
+#### Lava and Barren Planets
 
 You need a single extractor with ten heads, a launchpad and 9 factories.  The link between the extractor and the launchpad needs to be upgraded to "Upgrade Level VI - Expedited" in order to allow the volume of raw material you will be picking up to be stored in the launchpad.  Aim for an average of 60,000/hour raw material; try to avoid going below 54,000/hour.  Daily cycles recommended.
 
-### Gas Planet
+#### Gas Planet
 
 Planet III is the smaller gas planet so it's better for resource extraction.  You need a single extractor with 10 heads, a launchpad, and as many factories as you can build - probably 5, maybe 6.  Aim for an average of 38,000/hour raw material; try to avoid going below 32,000/hour.  Daily cycles recommended.
 
-## Structure Placement
+### Structure Placement
 
 Placement is *important*.  Pixels of placement on a hotspot will affect the amount a head can extract.  Keep the links between your structures as short as you can (by placing your structures as close to each other as possible).  Each link takes up fitting proportional to its length; making them longer than necessary uses fitting room needed to build structures.  **N.B.**: The links connecting extractor heads and the extractor do *not* use any fitting resources.
 
