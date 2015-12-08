@@ -30,6 +30,7 @@ Each participating character is responsible for producing three different types 
 | H         | John Freechman                 | Reactive Metals   | Precious Metals    | Water                         |                               |
 | I         | John Freechman                 | Silicon           | Reactive Metals    | Oxidizing Compound            |                               |
 | J         | John Freechman                 | Toxic Metals      | Reactive Metals    | Water                         |                               |
+{: class="table"}
 
 ### Goals
 
