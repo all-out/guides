@@ -66,7 +66,7 @@ Each character is responsible for producing three different types of materials o
 
 If you want to help out more, ask [Eddie Miromme](http://evewho.com/pilot/Eddie+Miromme) what needs doing to widen some of our bottlenecks.  Ideas:
 
-- With IPC III, you coulud run manufacturing on Planet IV
+- With IPC III, you could run manufacturing on Planet IV
 - With IPC IV or V, you could run manufacturing on additional hisec planets near tradehubs
 
 ## Now I Have All This Shit, How Do I Get Paid
