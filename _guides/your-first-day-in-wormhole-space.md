@@ -1,7 +1,7 @@
 ---
 layout: guide
 disabled: false
-title: All-Out Guide to Your First Day In Wormhole Space
+title: Your First Day In Wormhole Space
 shorttitle: Your First Day In Wormhole Space
 author: Syco Phantic
 excerpt: >
@@ -22,13 +22,13 @@ excerpt: >
 
 - Wormholes do have 2 kinds of mass limits
 
-  - 1. you can enter some WHs with ships that have a mass less than x kg. you can find a hint in the info of the wormhole. use google to find out what exactly it means for the mass
+    1. you can enter some WHs with ships that have a mass less than x kg. you can find a hint in the info of the wormhole. use google to find out what exactly it means for the mass
 
-  - 2. WHs will collapse after x kg has gone through. again check the info of the wormhole to see if the wormhole max mass is already at critical degree
+    2. WHs will collapse after x kg has gone through. again check the info of the wormhole to see if the wormhole max mass is already at critical degree
 
-  - Wormhole-Space gets classified in Classes. C1 (easiest) to C6 (hardest). Look up the J-Number at http://wh.pasta.gg/ to get the Class and Statics of a WH
+- Wormhole-Space gets classified in Classes. C1 (easiest) to C6 (hardest). Look up the J-Number at http://wh.pasta.gg/ to get the Class and Statics of a WH
 
-  - Wormhole-Statics: Every WH-Space got atlest 1 Static. For example our new Home got a Highsec-Static. Means that there always will be a Highsec exit.
+-  Wormhole-Statics: Every WH-Space got atlest 1 Static. For example our new Home got a Highsec-Static. Means that there always will be a Highsec exit.
 
 ## Navigation in Wormhole-Space
 
@@ -38,7 +38,7 @@ excerpt: >
 
 - make Safe-Spots (warp from a celestial (i.e. a Planet) to another) and open "Save Location" (Ctrl + B) press "Save" to create a Save Mid-Warp.
 
-- use vippy to find the wormhole, to map other wormholes and to find an exit.
+- use vippy to find the wormhole, to map other wormholes and to find an exit. there is a guide in the corp bulletins (in game)
 
 ## Making Money in Wormhole-Space
 
@@ -55,6 +55,8 @@ excerpt: >
   - check google bevor entering a site to see the loot and what npcs you will find there
 
   - for c3s go for a gila or a tengu. fits can be found in corp fittings HIT FUCKING DSCAN WHILE DOING COMBAT SITES carry a mobile depot with warpcore stabs to refit in case you get caught by a ship that is dscan immune
+  
+  - for good ISK/h and "secure" site running I also recommend RR (Remote Rep) Domis. Can easily do c3s with 2 pilots.
 
 - Mining
 
@@ -66,4 +68,5 @@ excerpt: >
 
   - easy stuff. for the lazy guys, mostly passive income. set up a command center and get ressources even while being offline. haul your shit out and maintain your commmand centers once in a while.
 
-Many guides about this can be found via Google. Or ask in Slack.
+
+#### Many guides about Wormholes, moneymaking etc. can be found via Google. And always feel free to ask in Slack.
