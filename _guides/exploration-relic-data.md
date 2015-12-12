@@ -72,7 +72,7 @@ If you don't have any race's frigate trained to V yet and are going to be doing 
 Later on in this guide there's more information about [Fitting Your Ship](#fitting) as well as [Recommended Fits](#recommended) for each of these hulls.
 
 
-## <a name="exploration"></a>Exploration in of Different Kinds of Space
+## <a name="exploration"></a>Exploration in Different Kinds of Space
 
 <a name="hisec"></a>High Security
 : The cans are very low value.  The competition to find sites is fierce, because hisec is full of explorers who are afraid to leave it and are fighting to make a living with the available resources.  At least you won't get shot.
