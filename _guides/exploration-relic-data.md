@@ -18,7 +18,7 @@ These are all around 2m-3m at Jita prices and require minimal training.
 
 #### Amarr
 
-```
+~~~
 [Magnate, T1 Explo Magnate]
 
 Nanofiber Internal Structure I
@@ -37,11 +37,11 @@ Core Probe Launcher I, Core Scanner Probe I
 Small Gravity Capacitor Upgrade I
 Small Gravity Capacitor Upgrade I
 [Empty Rig slot]
-```
+~~~
 
 #### Caldari
 
-```
+~~~
 [Heron, T1 Explo Heron]
 
 Nanofiber Internal Structure I
@@ -60,11 +60,11 @@ Salvager I
 Small Gravity Capacitor Upgrade I
 Small Gravity Capacitor Upgrade I
 [Empty Rig slot]
-```
+~~~
 
 #### Gallente
 
-```
+~~~
 [Imicus, T1 Explo Imicus]
 
 Nanofiber Internal Structure I
@@ -83,11 +83,11 @@ Salvager I
 Small Gravity Capacitor Upgrade I
 Small Gravity Capacitor Upgrade I
 [Empty Rig slot]
-```
+~~~
 
 #### Minmatar
 
-```
+~~~
 [Probe, T1 Explo Probe]
 
 Nanofiber Internal Structure I
@@ -106,7 +106,7 @@ Salvager I
 Small Gravity Capacitor Upgrade I
 Small Gravity Capacitor Upgrade I
 [Empty Rig slot]
-```
+~~~
 
 ### Tech 2 Ships
 
