@@ -126,42 +126,67 @@ Small Gravity Capacitor Upgrade I
 If you don't have any race's frigate trained to V yet and are going to be doing a lot of scanning, I'd recommend using the Caldari Heron and Buzzard.  They have the most midslots and so you can fit more scanning mods to scan faster (amarr explo frigs have the most lowslots; min is pretty much the same as gal but has +1 highslot for the covops version)
 
 
-## Notes on highslots:
+## Fitting Your Ship
 
-- You need a Core Probe Launcher I, which takes a set of 8x Core Scanner Probe I.  Once you're not losing ships all the time, you might upgrade to using Sisters Core Scanner Probes.  Once you're totally comfortable in dangerous space, you might upgrade to a Sisters Core Probe Launcher.  Personally, I will probably never use a sisters launcher; it's just too expensive to be worth it for me.
-- For a t1 explo frig, you need a Prototype Cloaking Device I.  For a covops frig, you need a Covert Ops Cloaking Device II.  No exceptions.  While cloaked you can scan but you can't activate any of your modules (prop mod, hacking mods, launching probes, etc.)  You can't warp with a t1 cloak, but you can with a covops cloak.  Warping cloaked massively cuts down on the risks you need to take.  It's great.
+### High Slots:
+
+Core Probe Launcher I
+: This takes a set of 8x Core Scanner Probe I.  Once you're not losing ships all the time, you might upgrade to using **Sisters Core Scanner Probes**.  Once you're totally comfortable in dangerous space, you might upgrade to a **Sisters Core Probe Launcher**.
+
+Prototype Cloaking Device I
+: This is invaluable on a t1 explo frig and should be trained ASAP (though you can explore without it while it's training).  For a covops frig, you need a **Covert Ops Cloaking Device II** (this one is not optional).  While cloaked you can scan if your probes are out, but you can't activate any of your modules (prop mod, hacking mods, *launching* probes, etc.)  You can't warp with an activated t1 cloak, but you can with an activated covops cloak.  Warping cloaked massively cuts down on the risks you need to take.  It's great.
+
+### Mid Slots:
+
+5MN Microwarpdrive
+: Which one (t1, t2, or any of the meta versions) doesn't matter much.  Pick on based on your skills, available fitting, and cost.  Data sites are 50km across; if you don't have a MWD it means you're vulnerable at the site longer while you burn between cans.
+
+Relic Analyzer I and/or Data Analyzer I
+: The t2 versions of these are quite good, but take a bit under a month to train each, so don't worry about them yet.
+
+Cargo Scanner I
+: Scan cans before hacking them and paste their contents in [http://evepraisal.com/](http://evepraisal.com/) to see if they're worth hacking.  Personally, I don't hack anything under 500k in value; your rule will depend on how much you need cash.  If you don't want to hack a can, be nice and blow the can up by activating the analyzer on it and closing the window twice.  Leaving any unhacked cans means the site will remain active for a couple of hours after you leave, reduce the chance of more sites spawning, and disappoint other explorers who find it.
+
+If you have any more midslot space, fit any of these: **Scan Acquisition Array I**, **Scan Pinpointing Array I**, or **Scan Rangefinding Array I**.  They will make scanning less painful if you have low skills.  Keep in mind that the **Scan Rangefinding Array** has stacking penalties with the **Gravity Capacitor** rigs discussed in the rigs section.
 
 
-## Notes on midslots:
-
-- You need a 5mn microwarpdrive of some kind.  Which one doesn't matter much; pick on based on skills, fitting, and cost.  Data sites are 50km across; if you don't have a MWD it means you're vulnerable at the site longer.
-- You need a Relic Analyzer I and a Data Analyzer I.  The t2 versions of these are quite good, but take a bit under a month to train each, so don't worry about them atm.
-- You need a Cargo Scanner I.  Scan cans before hacking them and paste their contents in http://evepraisal.com/ to see if they're worth hacking.  Personally, I don't hack anything under 500k in value; your rule will depend on how much you need cash.  If you don't want to hack a can, be nice and blow the can up by activating the analyzer on it and closing the window twice.  Leaving any unhacked cans means the site will remain active for a couple of hours after you leave and disappoint other explorers who find it.
-- If you have midslot space, fit any of these: Scan Acquisition Array I, Scan Pinpointing Array I, or Scan Rangefinding Array I.  They will make scanning less painful if you have low skills.  Keep in mind that the Rangefinding Array has stacking penalties with the Gravity Capacitor rigs discussed below.
-
-
-## Notes on lowslots:
+### Low Slots:
 
 There are three commonly used mods to fill lowslots:
-- Warp Core Stabilizer II give you +1 warp core strength, of course, but increase the time it takes you to lock things and decrease the distance from which you can lock things.  I DON'T LIKE THESE.  Stabs are most useful in hisec/losec because they only work on targeted points and scrams - they don't work on bubbles, and bubbles aren't allowed in hisec/losec.  But you shouldn't be exploring in hisec/losec because the payout is terrible! You should be in nullsec/wormhole space where the money is good - and in nullsec/wh, bubbles are allowed.
-- Inertial Stabilizers II make your ship turn and align quite fast (more than nanofibers) - but make your signature bigger (making you easier to lock and shoot).  I THINK THESE ARE OK.  Exploration ships are good at running and bad at fighting.  You should notice when someone is approaching you (with dscan) and enter warp asap, and these help with that. But, unless you can "instawarp" - align in under 2.0 seconds - istabs can bloom your signature a lot.  Asteros can instawarp with enough istabs, and I'm totally down with putting istabs on Asteros.  But i don't think any of the covops ships can, so I don't usually use istabs with them.  (Asteros are excellent exploration ships, but are expensive - and i'm trying to get you to make money using cheap ships).
-- Nanofiber Internal Structure II make your ship burn, turn, and align a bit quicker - but weakens your structure HP.  I LIKE THESE.  It's a good tradeoff - you can use it to align and warp fairly fast, but it also helps you get around inside a site faster which means you're vulnerable for a shorter time.  If you're into structure in an exploration frig, you're probably dead already.
+
+Warp Core Stabilizer I
+: These give you +1 warp core strength, of course, but increase the time it takes you to lock things and decrease the distance from which you can lock things.  I DON'T LIKE THESE.  Stabs are most useful in hisec/losec because they only work on targeted points and scrams - they don't work on bubbles, and bubbles aren't allowed in hisec/losec.  But you shouldn't be exploring in hisec/losec because the payout is terrible! You should be in nullsec/wormhole space where the money is good - and in nullsec/wh, bubbles are allowed.
+
+Inertial Stabilizers II
+: These make your ship turn and align quite fast (more than nanofibers) - but make your signature bigger (making you easier to lock and shoot).  I THINK THESE ARE OK.  Exploration ships are good at running and bad at fighting.  You should notice when someone is approaching you (with dscan) and enter warp asap, and these help with that. But, unless you can "instawarp" - align in under 2.0 seconds - istabs can bloom your signature a lot.  Asteros can instawarp with enough istabs, and I'm totally down with putting istabs on Asteros.  But i don't think any of the covops ships can, so I don't usually use istabs with them.  (Asteros are excellent exploration ships, but are expensive - and i'm trying to get you to make money using cheap ships).
+
+Nanofiber Internal Structure II
+: These make your ship burn, turn, and align all a bit quicker - but weakens your structure HP.  I LIKE THESE.  It's a good tradeoff - you can use them to align and warp fairly fast, but they also help you get around inside a site faster which means you're vulnerable for a shorter time.  If you're taking structure damage in an exploration frigate, you're probably dead already.
 
 
-## Notes on rigs:
-- I usually use 2x Small Gravity Capacitor Upgrade I.  Turns out this is a better scanning bonus than 1x the t2 version of the rig.
-- You might also consider using Small Emission Scope Sharpener I (easier relic hacking) or Small Memetic Algorithm Bank I (easier data hacking).
-Deciding which combination of rigs you want to use basically comes down to which you hate more: the time you spend scanning or the feeling of failing a can worth 50m.
+### Rigs:
 
-- - - 
+Small Gravity Capacitor Upgrade I
+:  These reduce the time needed for you to scan a site down.  I usually use two of these.  Turns out this is a better scanning bonus than one of the t2 version of the rig (and there isn't enough calibration to fit two of them)
 
-## Notes on space:
+You might also consider using these:
+
+Small Emission Scope Sharpener I
+: These increase the strength of your relic hacking.
+
+Small Memetic Algorithm Bank I
+: These increase the strength of your data hacking.
+
+Deciding what combination of rigs you want to use comes down to which you hate more: the time you spend scanning or the feeling of failing a can worth 50m or more.
+
+
+## Choosing What Space to Explore In:
 
 Hisec
 : The cans are very low value and the competition to find sites is fierce, because hisec is full of explorers who are afraid to leave it and are fighting to make a living with the available resources.  At least you won't get shot.
 
 Losec
-: The cans are medium value.  The competition is less, but the danger is very high because losec is full of people who are actively looking for kills.  At least you won't have to worry about bubbles so warp core stabs could help you, but there will almost always be people in local so it'll be hard to judge if you're in danger or not.
+: The cans are medium value.  The competition is less, but the danger is very high because losec is full of people who are actively looking for kills.  At least you won't have to worry about bubbles so **Warp Core Stabilizers** help you, but there will almost always be people in local so it'll be hard to judge if you're in danger or not.
 
 Nullsec
 : The cans are great value.  The competition is low because nullsec is HUGE, the population is tiny (not just relative to the number of systems but actually objectively less people live there than hisec) and most explorers are afraid to go there.  The danger is ironically lower than in losec, because there are less people around.  You can   There are bubbles, though.  Each region in nullsec has a specific pirate faction (you can look this up on DotLan) and all the exploration sites in that region will belong to that faction.  Sansha sites have the best loot by a significant margin (intact armor plates ftw).  Drone regions have no relic sites, only data sites.  More on this later.
