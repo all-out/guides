@@ -8,181 +8,30 @@ excerpt: >
   In-depth coverage of how to make money with relic and data sites as a young character.  You don't have to risk much, you learn a lot in the process, and the money is very good compared to most other new-player friendly professions.
 ---
 
+## Contents
+
+- [Pros and Cons of Different Kinds of Space](#space)
+  - [High Security](#hisec)
+  - [Low Security](#losec)
+  - [Null Security](#nullsec)
+  - [Wormhole Space](#wspace)
+- [Fitting Explained](#fitting)
+  - [High Slots](#highslots)
+  - [Mid Slots](#midslots)
+  - [Low Slots](#lowslots)
+  - [Rig Slots](#rigslots)
+- [Recommended Ship Fits](#recommended)
+  - [T1 Exploration Frigs](#t1fits)
+  - [T2 Covert Ops Frigs](#t2fits)
+
+
 It really is possible to make pretty good money without risking too much if you know what you are doing.  One of the easiest ways I've found is exploration in nullsec and wormhole space.  It's not without drawbacks - some people find it boring and/or scary (not sure how both can be true, but lol).  At least the ships used are not expensive and there are no rats to deal with.  Only players :) and learning to do that is really the only kind of tricky part at all.
 
-## Fits I recommend:
-
-### Tech 1 Ships
-
-These are all around 2m-3m at Jita prices and require minimal training.
-
-#### Amarr
-
-~~~
-[Magnate, T1 Explo Magnate]
-
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-
-5MN Quad LiF Restrained Microwarpdrive
-Relic Analyzer I
-Data Analyzer I
-
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-[Empty High slot]
-
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
-~~~
-
-#### Caldari
-
-~~~
-[Heron, T1 Explo Heron]
-
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-
-5MN Quad LiF Restrained Microwarpdrive
-Relic Analyzer I
-Data Analyzer I
-Scan Rangefinding Array I
-Scan Acquisition Array I
-
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I
-
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
-~~~
-
-#### Gallente
-
-~~~
-[Imicus, T1 Explo Imicus]
-
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-
-5MN Y-T8 Compact Microwarpdrive
-Data Analyzer I
-Relic Analyzer I
-Cargo Scanner I
-
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I
-
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
-~~~
-
-#### Minmatar
-
-~~~
-[Probe, T1 Explo Probe]
-
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-Nanofiber Internal Structure I
-
-5MN Cold-Gas Enduring Microwarpdrive
-Relic Analyzer I
-Data Analyzer I
-Cargo Scanner I
-
-Prototype Cloaking Device I
-Core Probe Launcher I, Core Scanner Probe I
-Salvager I
-
-Small Gravity Capacitor Upgrade I
-Small Gravity Capacitor Upgrade I
-[Empty Rig slot]
-~~~
-
-### Tech 2 Ships
-
-22m-25m Jita prices, you need to train Racial Frigate Level V and Covert Ops Level I
-
-#### Amarr
-
-#### Caldari
-
-#### Gallente
-
-#### Minmatar
 
 
-## Notes on the ship you use:
+## <a name="space"></a>Pros and Cons of Different Kinds of Space
 
-If you don't have any race's frigate trained to V yet and are going to be doing a lot of scanning, I'd recommend using the Caldari Heron and Buzzard.  They have the most midslots and so you can fit more scanning mods to scan faster (amarr explo frigs have the most lowslots; min is pretty much the same as gal but has +1 highslot for the covops version)
-
-
-## Fitting Your Ship
-
-### High Slots:
-
-Core Probe Launcher I
-: This takes a set of 8x Core Scanner Probe I.  Once you're not losing ships all the time, you might upgrade to using **Sisters Core Scanner Probes**.  Once you're totally comfortable in dangerous space, you might upgrade to a **Sisters Core Probe Launcher**.
-
-Prototype Cloaking Device I
-: This is invaluable on a t1 explo frig and should be trained ASAP (though you can explore without it while it's training).  For a covops frig, you need a **Covert Ops Cloaking Device II** (this one is not optional).  While cloaked you can scan if your probes are out, but you can't activate any of your modules (prop mod, hacking mods, *launching* probes, etc.)  You can't warp with an activated t1 cloak, but you can with an activated covops cloak.  Warping cloaked massively cuts down on the risks you need to take.  It's great.
-
-### Mid Slots:
-
-5MN Microwarpdrive
-: Which one (t1, t2, or any of the meta versions) doesn't matter much.  Pick on based on your skills, available fitting, and cost.  Data sites are 50km across; if you don't have a MWD it means you're vulnerable at the site longer while you burn between cans.
-
-Relic Analyzer I and/or Data Analyzer I
-: The t2 versions of these are quite good, but take a bit under a month to train each, so don't worry about them yet.
-
-Cargo Scanner I
-: Scan cans before hacking them and paste their contents in [http://evepraisal.com/](http://evepraisal.com/) to see if they're worth hacking.  Personally, I don't hack anything under 500k in value; your rule will depend on how much you need cash.  If you don't want to hack a can, be nice and blow the can up by activating the analyzer on it and closing the window twice.  Leaving any unhacked cans means the site will remain active for a couple of hours after you leave, reduce the chance of more sites spawning, and disappoint other explorers who find it.
-
-If you have any more midslot space, fit any of these: **Scan Acquisition Array I**, **Scan Pinpointing Array I**, or **Scan Rangefinding Array I**.  They will make scanning less painful if you have low skills.  Keep in mind that the **Scan Rangefinding Array** has stacking penalties with the **Gravity Capacitor** rigs discussed in the rigs section.
-
-
-### Low Slots:
-
-There are three commonly used mods to fill lowslots:
-
-Warp Core Stabilizer I
-: These give you +1 warp core strength, of course, but increase the time it takes you to lock things and decrease the distance from which you can lock things.  I DON'T LIKE THESE.  Stabs are most useful in hisec/losec because they only work on targeted points and scrams - they don't work on bubbles, and bubbles aren't allowed in hisec/losec.  But you shouldn't be exploring in hisec/losec because the payout is terrible! You should be in nullsec/wormhole space where the money is good - and in nullsec/wh, bubbles are allowed.
-
-Inertial Stabilizers II
-: These make your ship turn and align quite fast (more than nanofibers) - but make your signature bigger (making you easier to lock and shoot).  I THINK THESE ARE OK.  Exploration ships are good at running and bad at fighting.  You should notice when someone is approaching you (with dscan) and enter warp asap, and these help with that. But, unless you can "instawarp" - align in under 2.0 seconds - istabs can bloom your signature a lot.  Asteros can instawarp with enough istabs, and I'm totally down with putting istabs on Asteros.  But i don't think any of the covops ships can, so I don't usually use istabs with them.  (Asteros are excellent exploration ships, but are expensive - and i'm trying to get you to make money using cheap ships).
-
-Nanofiber Internal Structure II
-: These make your ship burn, turn, and align all a bit quicker - but weakens your structure HP.  I LIKE THESE.  It's a good tradeoff - you can use them to align and warp fairly fast, but they also help you get around inside a site faster which means you're vulnerable for a shorter time.  If you're taking structure damage in an exploration frigate, you're probably dead already.
-
-
-### Rigs:
-
-Small Gravity Capacitor Upgrade I
-:  These reduce the time needed for you to scan a site down.  I usually use two of these.  Turns out this is a better scanning bonus than one of the t2 version of the rig (and there isn't enough calibration to fit two of them)
-
-You might also consider using these:
-
-Small Emission Scope Sharpener I
-: These increase the strength of your relic hacking.
-
-Small Memetic Algorithm Bank I
-: These increase the strength of your data hacking.
-
-Deciding what combination of rigs you want to use comes down to which you hate more: the time you spend scanning or the feeling of failing a can worth 50m or more.
-
-
-## Choosing What Space to Explore In:
-
-Hisec
+<a name="hisec"></a>Hisec
 : The cans are very low value and the competition to find sites is fierce, because hisec is full of explorers who are afraid to leave it and are fighting to make a living with the available resources.  At least you won't get shot.
 
 Losec
@@ -223,10 +72,256 @@ Wormhole Space
 
 Exploration has very low skill requirements for the amount of isk return you can expect.  It also teaches you some good habits about navigating in dangerous space.  You should learn how to make secure safe spots.  You should always do your scanning while cloaked to avoid getting combat probed.  In wormholes, you should be clicking dscan twice a minute at least all the time you are uncloaked, and you should have a preset for your dscan that displays only ships and force-fields so you can easily see if a system is occupied.  As for how much money you get from it, I funded 200m seed capital for my market character with it easily, as well as my first incursion battleship (~650m).  A few days ago I pulled 120m from four cans in a wormhole (26 Intact Armor Plates lol).
 
+## Notes on the ship you use:
+
+If you don't have any race's frigate trained to V yet and are going to be doing a lot of scanning, I'd recommend using the Caldari Heron and Buzzard.  They have the most midslots and so you can fit more scanning mods to scan faster (amarr explo frigs have the most lowslots; min is pretty much the same as gal but has +1 highslot for the covops version)
+
+
+## <a name="fitting"></a>Fitting Your Ship
+
+### High Slots:
+
+Core Probe Launcher I
+: This takes a set of 8x **Core Scanner Probe I**.  Once you're not losing ships all the time, you might upgrade to using **Sisters Core Scanner Probes**.  Once you're totally comfortable in dangerous space, you might upgrade to a **Sisters Core Probe Launcher**.
+
+Prototype Cloaking Device I
+: This is invaluable on a t1 explo frig and should be trained ASAP (though you can explore without it while it's training).  For a covops frig, you need a **Covert Ops Cloaking Device II** (this one is not optional).  While cloaked you can scan if your probes are out, but you can't activate any of your modules (prop mod, hacking mods, *launching* probes, etc.)  You can't warp with an activated t1 cloak, but you can with an activated covops cloak.  Warping cloaked massively cuts down on the risks you need to take.  It's great.
+
+Salvager I
+: Most of the exploration frigs have a free high slot that you can do whatever you want with.  I usually put a salvager in it and salvage wrecks I find on gates and elsewhere (this is completely legal as far as CONCORD is concerned).  The other common high slot mods - guns and neuts - are not usually useful to exploration frigs.
+
+### Mid Slots:
+
+5MN Microwarpdrive
+: Which one (t1, t2, or any of the meta versions) doesn't matter much.  Pick on based on your skills, available fitting, and cost.  Data sites are 50km across; if you don't have a MWD it means you're vulnerable at the site longer while you burn between cans.
+
+Relic Analyzer I and/or Data Analyzer I
+: The t2 versions of these are quite good, but take a bit under a month to train each, so don't worry about them yet.
+
+Cargo Scanner I
+: Scan cans before hacking them and paste their contents in [http://evepraisal.com/](http://evepraisal.com/) to see if they're worth hacking.  Personally, I don't hack anything under 500k in value; your rule will depend on how much you need cash.  If you don't want to hack a can, be nice and blow the can up by activating the analyzer on it and closing the window twice.  Leaving any unhacked cans means the site will remain active for a couple of hours after you leave, reduce the chance of more sites spawning, and disappoint other explorers who find it.
+
+If you have any more midslot space, fit any of these: **Scan Acquisition Array I**, **Scan Pinpointing Array I**, or **Scan Rangefinding Array I**.  They will make scanning less painful if you have low skills.  Keep in mind that the **Scan Rangefinding Array** has stacking penalties with the **Gravity Capacitor** rigs discussed in the rigs section.
+
+
+### Low Slots:
+
+There are three commonly used mods to fill lowslots:
+
+Warp Core Stabilizer I
+: These give you +1 warp core strength, of course, but increase the time it takes you to lock things and decrease the distance from which you can lock things.  I DON'T LIKE THESE.  Stabs are most useful in hisec/losec because they only work on targeted points and scrams - they don't work on bubbles, and bubbles aren't allowed in hisec/losec.  But you shouldn't be exploring in hisec/losec because the payout is terrible! You should be in nullsec/wormhole space where the money is good - and in nullsec/wh, bubbles are allowed.
+
+Inertial Stabilizers II
+: These make your ship turn and align quite fast (more than nanofibers) - but make your signature bigger (making you easier to lock and shoot).  I THINK THESE ARE OK.  Exploration ships are good at running and bad at fighting.  You should notice when someone is approaching you (with dscan) and enter warp asap, and these help with that. But, unless you can "instawarp" - align in under 2.0 seconds - istabs can bloom your signature a lot.  Asteros can instawarp with enough istabs, and I'm totally down with putting istabs on Asteros.  But i don't think any of the covops ships can, so I don't usually use istabs with them.  (Asteros are excellent exploration ships, but are expensive - and i'm trying to get you to make money using cheap ships).
+
+Nanofiber Internal Structure II
+: These make your ship burn, turn, and align all a bit quicker - but weakens your structure HP.  I LIKE THESE.  It's a good tradeoff - you can use them to align and warp fairly fast, but they also help you get around inside a site faster which means you're vulnerable for a shorter time.  If you're taking structure damage in an exploration frigate, you're probably dead already.
+
+
+### Rig Slots:
+
+Small Gravity Capacitor Upgrade I
+:  These reduce the time needed for you to scan a site down.  I usually use two of these.  Turns out this is a better scanning bonus than one of the t2 version of the rig (and there isn't enough calibration to fit two of them)
+
+You might also consider using these:
+
+Small Emission Scope Sharpener I
+: These increase the strength of your relic hacking.
+
+Small Memetic Algorithm Bank I
+: These increase the strength of your data hacking.
+
+Deciding what combination of rigs you want to use comes down to which you hate more: the time you spend scanning or the feeling of failing a can worth 50m or more.
+
+## <a name="recommended"></a>Recommended Exploration Fits:
+
+### <a name="t1fits"></a>Tech 1 Racial Exploration Frigates
+
+These all cost around 2m-3m at Jita prices and require minimal training.
+
+#### Amarr (Magnate)
+
+~~~
+[Magnate, T1 Explo Magnate]
+
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+
+5MN Quad LiF Restrained Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+[Empty High slot]
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+~~~
+
+#### Caldari (Heron)
+
+~~~
+[Heron, T1 Explo Heron]
+
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+
+5MN Quad LiF Restrained Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Scan Rangefinding Array I
+Scan Acquisition Array I
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+~~~
+
+#### Gallente (Imicus)
+
+~~~
+[Imicus, T1 Explo Imicus]
+
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+
+5MN Y-T8 Compact Microwarpdrive
+Data Analyzer I
+Relic Analyzer I
+Cargo Scanner I
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+~~~
+
+#### Minmatar (Probe)
+
+~~~
+[Probe, T1 Explo Probe]
+
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+Nanofiber Internal Structure I
+
+5MN Cold-Gas Enduring Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Cargo Scanner I
+
+Prototype Cloaking Device I
+Core Probe Launcher I, Core Scanner Probe I
+Salvager I
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+[Empty Rig slot]
+~~~
+
+### <a name="t2fits"></a>Tech 2 Racial Covert Ops Frigates
+
+These all cost around 22m-25m Jita prices.  You need to train Racial Frigate Level V and Covert Ops Level I
+
+#### Amarr (Anathema)
+
+~~~
+[Anathema, T2 Explo Anathema]
+
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Y-T8 Compact Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Cargo Scanner I
+
+Covert Ops Cloaking Device II
+Core Probe Launcher I, Sisters Core Scanner Probe
+Salvager II
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+~~~
+
+#### Caldari (Buzzard)
+
+~~~
+[Buzzard, T2 Explo Buzzard]
+
+Reactor Control Unit II
+Nanofiber Internal Structure II
+
+5MN Y-T8 Compact Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Cargo Scanner I
+Scan Acquisition Array I
+
+Covert Ops Cloaking Device II
+Core Probe Launcher I, Sisters Core Scanner Probe
+Salvager II
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+~~~
+
+#### Gallente (Helios)
+
+~~~
+[Helios, T2 Explo Helios]
+
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+
+5MN Y-T8 Compact Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Cargo Scanner I
+Scan Acquisition Array I
+
+Covert Ops Cloaking Device II
+Core Probe Launcher I, Sisters Core Scanner Probe
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+~~~
+
+#### Minmatar (Cheetah)
+
+~~~
+[Cheetah, T2 Explo Cheetah]
+
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Reactor Control Unit II
+
+5MN Y-T8 Compact Microwarpdrive
+Relic Analyzer I
+Data Analyzer I
+Cargo Scanner I
+
+Covert Ops Cloaking Device II
+Core Probe Launcher I, Sisters Core Scanner Probe
+Salvager II
+
+Small Gravity Capacitor Upgrade I
+Small Gravity Capacitor Upgrade I
+~~~
+
 ![example image]({{site.baseurl}}/img/example.png)
 {: .text-center}
-
-*[CCU]: Command Center Upgrades
-*[IPC]: Interplanetary Consolidatoin
-*[SP]: Skill Points
-*[PI]: Planetary Interaction
