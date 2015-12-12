@@ -125,7 +125,12 @@ Later on in this guide there's more information about [Fitting Your Ship](#fitti
 
 <a name="wormholesites"></a>Wormhole Sites
 : - There are *two kinds* of relic and data sites in wormholes: (**Important! Newbros keep getting this wrong!**)
-    - **Pirate sites** contain nothing hostile at all.  Pirate site names always contain the name of one of the New Eden pirate factions (**Angel Cartel**, **Blood Raider**, **Guristas**, **Sansha** or **Serpentis**).  A site named "Blood Raider Crystal Quarry" is safe to enter.
+    - **Pirate sites** contain nothing hostile at all.  Pirate site names always contain the name of one of the New Eden pirate factions.  A site named "Blood Raider Crystal Quarry" is safe to enter.  These are the pirate faction names you will see:
+      - Angel Cartel
+      - Blood Raider
+      - Guristas
+      - Sansha
+      - Serpentis  
     - **Sleeper sites** contain have rats that will instantly destroy an exploration frig.  A site called "Unsecured Frontier Relay" has no pirate name in it, so it's a sleeper site and will kill you (even though it's called "Unsecured").
   - Pirate sites *only spawn* in C1, C2, and C3 class wormholes.  All exploration sites in C4, C5, and C6 holes will be sleeper sites.
     - There is one exception to this!  "Shattered" wormholes (you can tell these because all the planets will be "shattered" planets) can have pirate sites regardless of their class.
