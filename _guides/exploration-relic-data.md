@@ -1,8 +1,8 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Relic/Data Exploration
-shorttitle: Exploration (Relic/Data) [Draft]
+shorttitle: Exploration (Relic/Data)
 author: Mussah Yacoub
 excerpt: >
   In-depth coverage of how to make money off relic and data sites in dangerous space as a young character.  You don't have to risk much, you learn a lot in the process, and the money is very good compared to most other new-player friendly professions.
