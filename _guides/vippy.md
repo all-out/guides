@@ -42,10 +42,9 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 1. Dscan at max range, 360 degrees for hostiles.
 1. Bookmark the wormhole you just came through [correctly](#).
 1. Select and copy the *entire* signature list from the probe window. [GUIDE IMAGE]({{site.baseurl}}/img/probewindow.png)
-
-1. Toggle open the Vippy signature panel below the map and click the box of the system you are in. [SHOWSIGNATURES]
-1. Paste the sigs into this textbox and hit `Add Signatures`. [PASTESIGNATURES]
-1. This is an example of what a partially completed signature list looks like. [PARTIALLYCOMPLETESIGNATURES]
+1. Toggle open the Vippy signature panel below the map and click the box of the system you are in.  [GUIDE IMAGE]({{site.baseurl}}/img/showsigs.png)
+1. Paste the sigs into this textbox and hit `Add Signatures`.  [GUIDE IMAGE]({{site.baseurl}}/img/pastesigs.png)
+1. This is an example of what a partially completed signature list looks like.  [GUIDE IMAGE]({{site.baseurl}}/img/partiallycompletesigs.png)
 1. Decide if you're going to leave the hole or stay in it and scan.
 
 ### After Your Cloak Breaks
