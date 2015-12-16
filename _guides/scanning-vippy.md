@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Vippy
 shorttitle: Scanning / Vippy
 author: Mussah Yacoub
@@ -88,30 +88,25 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 
 ## How to Probe Quickly
 
-- Filter anomalies out of the probe window by clicking in the list of sigs and pressing the `1` key.
+Newbies often end up spending ages trying to get their probes to go where they want them and arranging them painstakingly.  With this method, you can center your probe formation on any signature in two motions, which (combined with the new keyboard shorcuts for resizing the bubbles and scanning) vastly cuts the time you need to take.
 
+- Filter anomalies out of the probe window by clicking in the list of sigs and pressing the `1` key.
 - Launch your probes in the "pinpoint" formation by pressing this button:
 
 ![Pinpoint probe formation]({{site.baseurl}}/img/pinpoint.png)
 {: .text-center}
 
 - Double-click the sig you're going to scan to highlight it, hide the others, and center the view on it.
-
 - Zoom out so you can see the whole bubble/circle/pair-of-dots/dot of the sig you're scanning
-
 - Motion 1:
-    
     - Align the camera as close to *horizontal* as you can (look at the horizontal handles of your probes and make them overlap so they are a fine line)
-
     - Using the up and down handles, align the center of your probe control to be on an imaginary horizontal line that passes through the center of the signature
 
 ![Vertical alignment]({{site.baseurl}}/img/vertical_align.png)
 {: .text-center}
 
 - Motion 2:
-
     - Align the camera as close to *vertical* as you can (look at the up and down handles and try to make them as small as you can)
-
     - Grabbing the square top face of the of the probe control, move your probe control in the horizontal plane so that it's directly centered on the center of the signature
 
 ![Horizontal alignment]({{site.baseurl}}/img/horizontal_align.png)
@@ -120,30 +115,20 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 After these two probe movements, the probe formation and the signature are now centered on the same point.  If you move the camera around, you can verify this.
 
 - Resizing:
-
     - You should have the bubble size increase and decrease bound to a hotkey.  I use `PgUp` and `PgDn`.
-
     - Resize your probes so that the center portion of the pinpoint formation (the part with the most coverage) matches the size of the signature as closely as possible.
 
 ![Resizing probe range]({{site.baseurl}}/img/resize.png)
 {: .text-center}
 
 - Scan:
-    
     - You should also have the scanning action bound to a hotkey.  I use `Shift-Space`.
-
 - Repeat until fully scanned:
-    
     - Double click the signature in the probe window again to recenter on the updated location of the signature, and continue as before.
-
     - In the case where the signature isn't a sphere:
-
         - Circle: keep the circle inside the center portion of the pinpoint formation while keeping the formation as small as possible, just like for the sphere.
-
         - Two dots: one of the dots is the real sig, one of the dots is false.  Again, make the formation as small as possible while still keeping both dots in the center portion.
-
         - One dot: reduce the size of your formation at about the same rate you were doing with the others, and recenter as usual.  As your scanning skills train, you will be able to reduce your bubble sizes by more notches at a time.
-
 
 *[IGB]: In-Game Browser
 *[Dscan]: Directional Scanner
