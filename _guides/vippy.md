@@ -40,7 +40,7 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 
 1. Jump into the system.  You have 30 seconds starting now.
 1. Dscan at max range, 360 degrees for hostiles.
-1. Bookmark the wormhole you just came through.  ([Bookmark Guide](http://all-out.github.io/guides/bookmarks/)).
+1. Bookmark the wormhole you just came through.  ([Bookmark Guide](http://all-out.github.io/guides/bookmarks/).)
 1. Select and copy the *entire* signature list from the probe window. [GUIDE IMAGE]({{site.baseurl}}/img/probewindow.png)
 1. Toggle open the Vippy signature panel below the map and click the box of the system you are in.  [GUIDE IMAGE]({{site.baseurl}}/img/showsigs.png)
 1. Paste the sigs into this textbox and hit `Add Signatures`.  [GUIDE IMAGE]({{site.baseurl}}/img/pastesigs.png)
