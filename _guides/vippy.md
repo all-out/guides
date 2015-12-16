@@ -2,18 +2,20 @@
 layout: guide
 disabled: true
 title: All-Out Guide to Vippy
-shorttitle: Vippy (placeholder)
+shorttitle: Scanning / Vippy
 author: Mussah Yacoub
 excerpt: >
-    Overview of our wormhole mapping software.  Our ability to make good
-    decisions and recognize when content and ISK are available depend on your
-    ability to correctly use this tool.
+    How to quickly and effectively scan a wormhole and record all the relevant info in our wormhole mapping software, Vippy.  Our ability to make good decisions and recognize when content and ISK are available depend on your ability to correctly use this tool.
 ---
 
+## Introduction
+
+This guide discusses how to quickly and effectively scan a wormhole and record all the relevant info in our wormhole mapping software, Vippy.  Our ability to make good decisions and recognize when content and ISK are available depend on your ability to correctly use this tool.
+
+## Overview
 
 * TOC
 {:toc}
-
 
 ## First Time Setup
 
