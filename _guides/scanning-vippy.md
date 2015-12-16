@@ -92,7 +92,7 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 
 - Launch your probes in the "pinpoint" formation by pressing this button:
 
-![Pinpoint probe formation]({{site.baseurl}}/img/wh_recording.png)
+![Pinpoint probe formation]({{site.baseurl}}/img/pinpoint.png)
 {: .text-center}
 
 - Double-click the sig you're going to scan to highlight it, hide the others, and center the view on it.
