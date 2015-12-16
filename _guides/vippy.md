@@ -40,7 +40,7 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
 
 1. Jump into the system.  You have 30 seconds starting now.
 1. Dscan at max range, 360 degrees for hostiles.
-1. Bookmark the wormhole you just came through [correctly](#).
+1. Bookmark the wormhole you just came through.  ([Bookmark Guide](http://all-out.github.io/guides/bookmarks/)).
 1. Select and copy the *entire* signature list from the probe window. [GUIDE IMAGE]({{site.baseurl}}/img/probewindow.png)
 1. Toggle open the Vippy signature panel below the map and click the box of the system you are in.  [GUIDE IMAGE]({{site.baseurl}}/img/showsigs.png)
 1. Paste the sigs into this textbox and hit `Add Signatures`.  [GUIDE IMAGE]({{site.baseurl}}/img/pastesigs.png)
@@ -71,9 +71,9 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
     - Pasting *often* is especially important when multiple people are scanning a single hole, in order to avoid wasting time by having more than one person scan a given thing.
 1. Recording a fully scanned wormhole sig:
     1. Warp onto grid with the wormhole (warping to 0km can be unsafe).
-    1. Bookmark the wormhole from the overview with the [correct name](#).
+    1. Bookmark the wormhole from the overview.  (Again: [Bookmark Guide](http://all-out.github.io/guides/bookmarks/).)
     1. In the Eve client, open the wormhole's info window and remember the wormhole type.
-    1. In Vippy, click on the wormhole sig to open the editing interface:
+    1. In Vippy, click on the wormhole sig to open the editing interface: [GUIDE IMAGE]({{site.baseurl}}/img/wh_recording.png)
         1. Select the wormhole type from the dropdown in the "Type" column.
             - This step is not _essential_ but if you do it, the precise lifetime and mass limits of the connection will be recorded and more info is always good.
         1. Erase `unknown wormhole` from the "Info" column and type in the name of the bookmark you just created, like `0-Ha`
@@ -85,4 +85,4 @@ This means simply hitting `Ctrl-B` will log you in (which you should be, wheneve
     1. Perform all the steps listed in [Before Your Cloak Breaks](#before-your-cloak-breaks) before you jump back into your initial system to continue mapping the other connections.
 
 *[IGB]: In-Game Browser
-*[eol]: End Of Life (~4hrs before wormhole collapse)
+*[Dscan]: Directional Scanner
