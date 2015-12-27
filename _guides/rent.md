@@ -38,7 +38,7 @@ Miscellaneous expenses include but are not limited to:
 
 ## I Can't Afford This
 
-We strongly recommend you join our [Planetary Interaction program](http://all-out.github.io/guides/planetary-interaction/) - at our usual member activity levels, you should be able to pay your rent with about a quarter of your PI money and it takes less than a week to train.  Relic exploration is also a simple way of making ISK (not to mention finding content in our chains on the side).  Ask in Slack for more ideas if neither of those float your boat.
+We strongly recommend you join our [planetary interaction program](http://all-out.github.io/guides/planetary-interaction/) - at our usual member activity levels, you should be able to pay your rent with about a quarter of your PI money and it takes less than a week to train. [Relic exploration](http://all-out.github.io/guides/exploration-relic-data/) is also a simple way of making ISK (not to mention finding content in our chains on the side).  Ask in Slack for more ideas if neither of those float your boat.
 
 ## Mail Pasta
 
