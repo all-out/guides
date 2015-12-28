@@ -49,6 +49,7 @@ This fails about 5% of the time due to random mass variation and there's nothing
 All bets are off once a few ships of unknown mass have jumped through.
 
 *Starting from inside the home hole:*
+
 - Hot Hot
 - Hot Hot *(now massed)*
 - Cold Hot
