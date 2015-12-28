@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: false
+disabled: true
 title: All-Out Guide to Rolling Wormholes
 shorttitle: Rolling Wormholes
 author: Mussah Yacoub
@@ -22,7 +22,7 @@ Rolling mass amounts are  discussed in very large units. You will probably see b
 
 Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal size give an equal mass increase.
 
-## All-out Rolling
+## All-Out Rolling
 
 ### Numbers
 
