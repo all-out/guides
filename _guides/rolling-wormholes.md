@@ -5,7 +5,7 @@ title: All-Out Guide to Rolling Wormholes
 shorttitle: Rolling Wormholes
 author: Mussah Yacoub
 excerpt: >
-    What is "rolling a wormhole" and how do I do it?
+    What is 'rolling a wormhole' and how do I do it?
 ---
 ## Introduction
 
