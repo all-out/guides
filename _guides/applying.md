@@ -57,4 +57,5 @@ Note: this email address will be visible to all members of the server, so it mig
 *[USTZ]: United States Time Zone
 *[EUTZ]: European Time Zone
 *[AUTZ]: Australian Time Zone
+*[POS]: Player-Owned Starbase
 *[IGB]: In Game Browser
