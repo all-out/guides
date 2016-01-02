@@ -77,7 +77,9 @@ You can **pledge** to pay an amount each month *in addition* to your regular ren
 
 Pledges will be used to offset the rent amount for everyone - by paying more, you are allowing other people who may not be able to make as much ISK as you to pay less.  The rent equation becomes (**All-Out Operating Expenses** *minus* **Total Pledges**) *divided by* **Number of Renters**.
 
-Example: Rent would have been be 60m.  Joe pledges 100m.  The rent is now 56m.  Every non-pledger pays 56m, and Joe pays 156m.
+**Example**: Rent would have been be 60m.  Joe pledges 100m.  The rent is now 56m.  Every non-pledger pays 56m, and Joe pays 156m.
+
+Contact a director to let them know what amount you would like to pledge.
 
 ## Mail Pasta
 
@@ -92,16 +94,18 @@ Example body:
 ~~~
 Rent due for XXMONTHXX XXYEARXX:
 
-61904762 ISK
+XXAMOUNTXX ISK
 
 Steps:
 1. Right click this link: All-Out
 2. Select "Give Money"
 3. Select the "Rent" account
-4. Double-click the amount above and copy/paste as the amount
+4. Double-click the ISK figure above and copy/paste it as the amount
 5. Give "XXMONTHXX" as the reason (Sponsors should also include the name of the sponsored member)
 
 For more information, please read all-out.github.io/guides/rent
+
+Thank you to our pledgers for bringing everyone else's rent down XXAMOUNTXX:
 ~~~
 
 
