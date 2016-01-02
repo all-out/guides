@@ -20,7 +20,7 @@ excerpt: >
 
 ### The Speedy Way
 
-**Do this if:** You're just returning to the game (or starting the game) and want to jump right in with a corp to start doing things immediately.  You already have an idea of who All-Out are and what we do from hearing through friends or from [the thread](orph.link/eog), and you want in.
+**Do this if:** You're just returning to the game (or starting the game) and want to jump right in with a corp to start doing things immediately.  You already have an idea of who All-Out are and what we do from hearing through friends or from [the thread](http://orph.link/eog), and you want in.
 
 Send a mail to one of the directors.  Hit these points, plus any other info you think is relevant:
 
@@ -72,7 +72,7 @@ Yes?  Keep reading.
 
 ### Ask a director personally.
 
-If you've included all the information we need and you've talked to us but your application still hasn't been accepted, don't be afraid to mail a director and ask what's up.  The corp might be on lockdown for some reaons and application acceptances are being delayed for security.  There might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt to ask.
+If you've included all the information we need and you've talked to us but your application still hasn't been accepted, don't be afraid to mail a director and ask what's up.  The corp might be on lockdown for some reason and application acceptances are being delayed for security.  There might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt to ask.
 
 *[USTZ]: United States Time Zone
 *[EUTZ]: European Time Zone
