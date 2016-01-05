@@ -30,12 +30,12 @@ Assets belonging to renters who go inactive or miss payments will first be moved
 
 |           Expense            | Montly Cost |
 |:----------------------------:|:-----------:|
-|    Tengoo Fun Club [fuel]    |     400m    |
-|  Brutor Spiderlings [fuel]   |     200m    |
-|   Cuckdari Tengoos [fuel]    |     200m    |
-| Deutche Stripperinnen [fuel] |     200m    |
-|     Vippy [subscription]     |     300m    |
-|        Miscellaneous         |     200m    |
+|    Tengoo Fun Club [fuel]     |     400m    |
+|  Brutor Spiderlings [fuel]    |     200m    |
+|   Cuckdari Tengoos [fuel]     |     200m    |
+| Deutsche Stripperinnen [fuel] |     200m    |
+|     Vippy [subscription]      |     300m    |
+|        Miscellaneous          |     200m    |
 {: class="table"}
 
 Total cost is 1.5b monthly; rent will likely be between 40m to 80m monthly.
