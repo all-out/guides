@@ -24,9 +24,9 @@ Also that's how I found the AFK Chimera.
 
 **SO GET ON SCANNING YOU FUCKS. STOP WAITING FOR IT. CREATE YOUR OWN FUCKING CONTENT.**
 
-**IF OUR STATIC IS COMPLETELY SCOUTED AND SHIT YOU CAN JUST ROLL IT.**
-
 So I want you to start scanning. scan 1. Then scan 11 and 12. And so forth. Look for null exits. If you find one scout the surrounding null systems.
+
+**IF OUR STATIC IS COMPLETELY SCOUTED AND SHIT YOU CAN JUST ROLL IT.**
 
 ### What to look for
 
