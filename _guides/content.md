@@ -35,7 +35,7 @@ Check your star map if all planets are in dscan range. If not warp to planets th
 
 Use a covops. training time for an astero is less than 1 day. training for cloak like 4 days.
 
-**If you find something ping @channel in #subbed_eve**
+**If you find something ping @channel in #subbed_eve.**
 
 **DO SOMETHING. DON'T SIT THERE AND WAIT.**
 
