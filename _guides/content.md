@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Creating Content
 shorttitle: Content
 author: Syco Phantic
