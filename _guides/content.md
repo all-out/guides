@@ -9,20 +9,15 @@ excerpt: >
 ---
 ### Why?
 
-Unless you want to be a F1 monkey in Null,  content won't always be given to you automatically - you have to work for it.
+Unless you want to be a F1 monkey in Null,  content won't always be given to you automatically - **you have to work for it.**
 
 An easy way to create content in wh space is scanning.
 Believe it or not. Scanning 10 wormholes instead of just scanning the static down highers the chance of content by 10 times ;)
 
 There are eve players in wh space and in null that are making a lot of money with doing sites and are just waiting to be killed but how are we going to find these cucks if we don't search for them? 
-
 They certainly won't come to us.
-
-
 And we won't kill them by sitting in 0 and waiting for content. 
-
 And we won't kill them if we are not even logging in and just asking in slack "content happening?".
-
 
 With scouting and scanning we managed to get some good fights in wormholes space and in null sec. 
 Also that's how I found the AFK Chimera.
