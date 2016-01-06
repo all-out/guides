@@ -39,7 +39,7 @@ WHEN YOU  JUMP INTO A SYSTEM, IMMEDIATELY DSCAN AT 14.3 AU AND SEE WHAT YOU FIND
 If there's a common ratting boat on wide dscan, check anoms with narrow dscan.  If he's at one of them, he's a confirmed target.
 
 ### Towers
-If there are less forcefields than towers on dscan, figure out if the offline towers have SMAs.  These are loot piñatas
+If there are less forcefields than towers on dscan, figure out if the offline towers have SMAs.  These are loot piñatas, and don't last long.
 
 ### Wrecks
 If these are on wide dscan, there have been ratters in the area within the last two hours.
