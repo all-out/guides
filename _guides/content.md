@@ -31,7 +31,7 @@ Check dscan for ratters and offline towers with SMAs (they can be loot piñatas)
 Dscan for wrecks to see if there have been ratters in the last 2 hours.
 Check your star map if all planets are in dscan range. If not warp to planets that are more than 14.3 AU away and get on dscanning.
 
-### What ship should to use
+### What ship to use
 
 Use a covops. training time for an astero is less than 1 day. training for cloak like 4 days.
 
