@@ -41,12 +41,11 @@ Use a covops. training time for an astero is less than 1 day. training for cloak
 
 If we are not getting PvP content from your scanning you will at least get rewarded by PvE stuff like juicy relics. 
 
-ALSO
-If you are doing sites that have been scanned down by somebody else in the corp give him a cut. just check who created the bm.
+### Notes
 
-ALSO²
-If you are scanning always edit the sigs in vippy. helps everybody a lot. thanks.
-See http://all-out.github.io/guides/scanning-vippy/
+- If you are doing sites that have been scanned down by somebody else in the corp give him a cut. just check who created the bm.
+
+- If you are scanning always edit the sigs in vippy. helps everybody a lot. thanks. See http://all-out.github.io/guides/scanning-vippy/
 
 NOOTKIN'S BEST ADVICE:
 IF YOU JUMP INTO ANYWHERE, DSCAN 14.3 AU, PLEASE DO NOT DROP PROBES THE SECOND YOU ENTER SYSTEM, THAT'S THE EASIEST WAY TO SCARE OFF PREY
