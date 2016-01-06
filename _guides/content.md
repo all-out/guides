@@ -50,7 +50,7 @@ If we are not getting PvP content from your scanning you will at least get rewar
 
 - If you are doing sites that have been scanned down by somebody else in the corp give him a cut. Just check who created the bm.
 
-- If you are scanning always edit the sigs in vippy. Helps everybody a lot. Thanks. See http://all-out.github.io/guides/scanning-vippy/
+- If you are scanning always edit the sigs in vippy. Helps everybody a lot. Thanks. See [All-Out's Guide to Vippy](http://all-out.github.io/guides/scanning-vippy/)
 
 NOOTKIN'S BEST ADVICE:
 IF YOU JUMP INTO ANYWHERE, DSCAN 14.3 AU, PLEASE DO NOT DROP PROBES THE SECOND YOU ENTER SYSTEM, THAT'S THE EASIEST WAY TO SCARE OFF PREY
