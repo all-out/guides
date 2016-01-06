@@ -7,7 +7,6 @@ author: Syco Phantic
 excerpt: >
     How to create content in Wormhole Space
 ---
-
 ### Why?
 
 Unless you want to be a F1 monkey in Null,  content won't always be given to you automatically - you have to work for it.
