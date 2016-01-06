@@ -31,7 +31,7 @@ Also that's how I found the AFK Chimera.
 
 **IF OUR STATIC IS COMPLETELY SCOUTED AND SHIT YOU CAN JUST ROLL IT.**
 
-So I want you to start scanning. scan 1. then scan 11 and 12. and so forth. Look for null exits. if you find one scout the surrending null systems.
+So I want you to start scanning. scan 1. then scan 11 and 12. and so forth. Look for null exits. if you find one scout the surrounding null systems.
 
 ### What to look for
 
