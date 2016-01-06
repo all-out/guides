@@ -8,6 +8,11 @@ excerpt: >
     What you need to do in order to join All-Out.
 ---
 
+## Overview
+
+* TOC
+{:toc}
+
 ## Getting to Know Each Other
 
 ### The Relaxed Way
