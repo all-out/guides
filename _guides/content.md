@@ -14,10 +14,18 @@ Unless you want to be a F1 monkey in Null,  content won't always be given to you
 An easy way to create content in wh space is scanning.
 Believe it or not. Scanning 10 wormholes instead of just scanning the static down highers the chance of content by 10 times ;)
 
-There are eve players in wh space and in null that are making a lot of money with doing sites and are just waiting to be killed but how are we going to find these cucks if we don't search for them? They certainly won't come to us.
-And we won't kill them by sitting in 0 and waiting for content. And we won't kill them if we are not even logging in and just asking in slack "content happening?".
+There are eve players in wh space and in null that are making a lot of money with doing sites and are just waiting to be killed but how are we going to find these cucks if we don't search for them? 
 
-With scouting and scanning we managed to get some good fights in wormholes space and in null sec. Also that's how I found the AFK Chimera.
+They certainly won't come to us.
+
+
+And we won't kill them by sitting in 0 and waiting for content. 
+
+And we won't kill them if we are not even logging in and just asking in slack "content happening?".
+
+
+With scouting and scanning we managed to get some good fights in wormholes space and in null sec. 
+Also that's how I found the AFK Chimera.
 
 **SO GET ON SCANNING YOU FUCKS. STOP WAITING FOR IT. CREATE YOUR OWN FUCKING CONTENT.**
 
@@ -28,7 +36,9 @@ So I want you to start scanning. scan 1. then scan 11 and 12. and so forth. Look
 ### What to look for
 
 Check dscan for ratters and offline towers with SMAs (they can be loot piñatas).
+
 Dscan for wrecks to see if there have been ratters in the last 2 hours.
+
 Check your star map if all planets are in dscan range. If not warp to planets that are more than 14.3 AU away and get on dscanning.
 
 ### What ship to use
