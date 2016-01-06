@@ -8,7 +8,7 @@ excerpt: >
     How to create content in Wormhole Space
 ---
 
-## Why?
+### Why?
 
 Unless you want to be a F1 monkey in Null,  content won't always be given to you automatically - you have to work for it.
 
@@ -26,13 +26,13 @@ With scouting and scanning we managed to get some good fights in wormholes space
 
 So I want you to start scanning. scan 1. then scan 11 and 12. and so forth. Look for null exits. if you find one scout the surrending null systems.
 
-## What to look for
+### What to look for
 
 Check dscan for ratters and offline towers with SMAs (they can be loot piñatas).
 Dscan for wrecks to see if there have been ratters in the last 2 hours.
 Check your star map if all planets are in dscan range. If not warp to planets that are more than 14.3 AU away and get on dscanning.
 
-## What ship should to use
+### What ship should to use
 
 Use a covops. training time for an astero is less than 1 day. training for cloak like 4 days.
 
