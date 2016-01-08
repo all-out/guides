@@ -9,7 +9,7 @@ excerpt: >
 ---
 ## Introduction
 
-Like all corps, All-Out gets wardecced from time to time.  Since we are primarily a wormhole corp, this doesn't affectu as heavily as it would affect, say, a highsec mining corp.  We do recruit brand new players often, though, and it's important that they know how their activity in highsec will be affected by a wardec.
+Like all corps, All-Out gets wardecced from time to time.  Since we are primarily a wormhole corp, this doesn't affect us as heavily as it would affect, say, a highsec mining corp.  We do recruit brand new players often, though, and it's important that they know how their activity in highsec will be affected by a wardec.
 
 ## Overview
 
