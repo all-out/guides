@@ -63,7 +63,7 @@ The only way to get a fight with them is to bait them into attacking what appear
 
 #### Neutral Logi
 
-"Neutral alts" (characters not involved in the war but controlled by the aggressors) are a *constant* in highsec PVP.  They will fly repair ships and rep the people you're fighting.  Aside from having your own neutral logi, there's nothing you can do about it; if you shoot theirs you will get CONCORDed.  This gives them enough time for more war targets to show up to help kill you.
+"Neutral alts" (characters not involved in the war but controlled by the aggressors) are a *constant* in highsec PVP.  They will fly repair ships and rep the people you're fighting.  We can't shoot them until after they start repping, which means they will have already pulled range and started their cap chain, etc.  That they're neutral also makes it hard to predict what kind of numbers you can expect to show up.
 
 #### ISK Efficiency
 
