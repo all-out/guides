@@ -5,7 +5,7 @@ title: All-Out Guide to People
 shorttitle: People
 author: Mussah Yacoub
 excerpt: >
-    Linkable lists of people who can do various thing in the corp.
+    Linkable lists of people who can do various things for the corp.
 ---
 
 ## Overview
