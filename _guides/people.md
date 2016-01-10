@@ -22,6 +22,7 @@ These people can accept corp applications, set member permissions for towers and
 | [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) | Amerifat |
 | [Nooktin](http://evewho.com/pilot/Nootkin) | Amerifat |
 | [Syco Phantic](http://evewho.com/pilot/Syco+Phantic) | Yuropoor |
+{: class="table"}
 
 ## Haulers
 
@@ -38,6 +39,7 @@ These people have access to characters with at least T2 industrials trained.
 | [Tehol Aerus](http://evewho.com/pilot/Tehol+Aerus) | | unknown | |
 | [Dylann Noree](http://evewho.com/pilot/Dylann+Noree) | | unknown | |
 | [Amplify](http://evewho.com/pilot/Amplify) | | unknown | |
+{: class="table"}
 
 *[IC]: In-corp
 *[OOC]: Out-of-corp
