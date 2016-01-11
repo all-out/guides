@@ -10,7 +10,7 @@ excerpt: >
 
 ## Introduction
 
-I will buy your stuff in our home hole at **92% of its current Jita sell price**, saving you the trouble of shipping it out yourself and managing sell orders for it.  (That's a working percent, I'll try it for a while and see how it goes.)
+Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will buy stuff from All-Out members in our home hole at **92% of its current Jita sell price**, saving you the trouble of shipping it out yourself and managing sell orders for it.  (That's a working percent, I'll try it for a while and see how it goes.)
 
 ## Overview
 
