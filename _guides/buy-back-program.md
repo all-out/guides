@@ -23,7 +23,7 @@ I will buy your stuff in our home hole at **92% of its current Jita sell price**
 - Sleeper loot ("blue loot")
 - All kinds of salvage (normal ships and sleeper ships)
 - Ship modules (pvp loot, ratting loot, manufactured goods)
-- All kinds of gas (wormhole and lowsec)
+- Wormhole gas
 - Ore / compressed ore / minerals
 
 ## How Do I Sell Stuff?
