@@ -21,7 +21,7 @@ excerpt: >
 
 - Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
 
-- You need to eventually talk to one of the directors.  [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and [Nootkin](http://evewho.com/pilot/Nootkin) are usually online during USTZ and [Syco Phantic](http://evewho.com/pilot/Syco+Phantic) is usually online during EUTZ.  We log in pretty much daily, so you'll see us around.  (The AUTZ director position is open; we provide competitive rates payable in `Exotic Dancers, Male` for qualified applicants.)
+- You need to eventually talk to one of the [directors](http://all-out.github.io/guides/people/#directors).  We log in pretty much daily, so you'll see us around.  (The AUTZ director position is open; we provide competitive rates payable in `Exotic Dancers, Male` for qualified applicants.)
 
 ### The Speedy Way
 
