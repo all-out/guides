@@ -10,14 +10,14 @@ excerpt: >
 
 ## Introduction
 
-Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will buy stuff from All-Out members in our home hole at **92% of its current Jita sell price**, saving you the trouble of shipping it out yourself and managing sell orders for it.  (That's a working percent, I'll try it for a while and see how it goes.)
+Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will buy stuff from All-Out members in our home hole at **average of Jita buy/sell**, saving you the trouble of shipping it out yourself and managing sell orders for it.  (That's a working percent, I'll try it for a while and see how it goes.)
 
 ## Overview
 
 * TOC
 {:toc}
 
-## What Kind Of Stuff Can I Sell?
+## Things I'm Buying
 
 - Relic and data loot (from both pirate and sleeper sites)
 - Sleeper loot ("blue loot")
@@ -26,20 +26,32 @@ Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will
 - Wormhole gas
 - Ore / compressed ore / minerals
 
-## How Do I Sell Stuff?
+## How to Sell Me Stuff
 
-<video width="320" height="240" autoplay>
+### Video Steps:
+
+<video width="720" height="480" autoplay controls>
   <source src="{{site.baseurl}}/img/lootcans.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+{: .text-center}
 
-1. I have to be online and in the hole (because there are no contracts in wormholes).
-1. Drop your stuff in an empty **Buy-Back can**.  There are two, anchored above and below the staging tower, and they are bookmarked in the folder `Corporation Locations > Buy-Back` so you can warp to them.  Each can holds 3,900 m3.
-1. Ping me in Slack/Teamspeak/in-game and let me know:
-    - Which can(s) contain your stuff
-    - Who needs to be paid for it (I can split the payouts for groups of people)
-1. I will take a Jita evepraisal of the can(s), record it in my spreadsheet, pay the people involved, and empty the can.
+### Text Steps:
 
-## My Stuff Won't Fit the Cans
+1. Go to the staging tower. 
+1. Get **Small Standard Container**(s) from the CHA, Division 1 and put them in your ship's cargo.  You'll need 100m3 free space per can.
+1. "Launch for Self" and then "Scoop to Cargo" the cans in order to unpackage them if they're packaged
+1. Rename the cans with the names of the people who need payment for the loot
+1. Put your loot in the cans (each one holds 120m3)
+1. Drop the cans into the CHA, Division 7
+1. I'll check Div 7 for cans periodically, clear it out, pay people and put the empty cans back into Div 1.
 
-Uh.  Talk to me. I'm sure we can find an empty division somewhere in the staging tower to transfer with.
+## Your Stuff Won't Fit the Cans
+
+Talk to me. We can find somewhere with enough space to transfer.
+
+## Concerning Selling to Grm
+
+You can if you want.  We are offering the same price, and it's simpler for Grm to periodically buy out my stockpile of sleeper material than to organize transactions with each of you individually.  I'm also buying more things than the sleeper salvage and gas he's interested in.
+
+*[CHA]: Corporate Hangar Array
