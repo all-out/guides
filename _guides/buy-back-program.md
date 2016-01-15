@@ -28,6 +28,11 @@ Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will
 
 ## How Do I Sell Stuff?
 
+<video width="320" height="240" autoplay>
+  <source src="{{site.baseurl}}/img/lootcans.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 1. I have to be online and in the hole (because there are no contracts in wormholes).
 1. Drop your stuff in an empty **Buy-Back can**.  There are two, anchored above and below the staging tower, and they are bookmarked in the folder `Corporation Locations > Buy-Back` so you can warp to them.  Each can holds 3,900 m3.
 1. Ping me in Slack/Teamspeak/in-game and let me know:
