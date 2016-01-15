@@ -30,11 +30,10 @@ Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will
 
 ### Video Steps:
 
-<video width="720" height="480" autoplay controls>
+<video class="text-center" width="720" height="480" autoplay controls>
   <source src="{{site.baseurl}}/img/lootcans.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-{: .text-center}
 
 ### Text Steps:
 
