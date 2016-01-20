@@ -5,7 +5,7 @@ title: All-Out Guide to Mussah's Buy-Back Program
 shorttitle: Buy-Back Program
 author: Mussah Yacoub
 excerpt: >
-    You can sell your stuff in our home hole to get ISK without the trouble of shipping it out to a hub.
+    Mussah buys all kinds of things in our wormhole at average of Jita Buy/Sell price.
 ---
 
 ## Introduction
