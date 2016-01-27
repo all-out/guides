@@ -47,10 +47,12 @@ Hi, my name is [Mussah Yacoub](http://evewho.com/pilot/Mussah+Yacoub) and I will
 
 ## Your Stuff Won't Fit the Cans
 
-Talk to me. We can find somewhere with enough space to transfer.
+We have a transfer can that will fit 10,000 m3, but it's public to corp members.  Talk to me and we can do the exchange when we're both online.  If you have more volume to sell than that, we can look at other options.
 
 ## Concerning Selling to Grm
 
-You can if you want.  We are offering the same price, and it's simpler for Grm to periodically buy out my stockpile of sleeper material than to organize transactions with each of you individually.  I'm also buying more things than the sleeper salvage and gas he's interested in.
+Grm has moved out of our wormhole and is stepping down his production lines.
+
+<del>You can if you want.  We are offering the same price, and it's simpler for Grm to periodically buy out my stockpile of sleeper material than to organize transactions with each of you individually.  I'm also buying more things than the sleeper salvage and gas he's interested in.</del>
 
 *[CHA]: Corporate Hangar Array
