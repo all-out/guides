@@ -28,7 +28,7 @@ Assets belonging to renters who go inactive or miss payments will first be moved
 
 ## Operating Expenses
 
-|           Expense            | Montly Cost |
+|           Expense            | Monthly Cost |
 |:----------------------------:|:-----------:|
 |    Tengoo Fun Club [fuel]     |     400m    |
 |  Brutor Spiderlings [fuel]    |     200m    |
