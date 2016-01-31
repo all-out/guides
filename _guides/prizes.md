@@ -14,13 +14,13 @@ excerpt: >
 
 ## Top Scanner
 
-**50m ISK** awarded at the end of each month to the All-Out member at **#1 on the Vippy leaderboard**.
+**50m ISK awarded to the #1 member on the Vippy leaderboard** at the end of each month.
 
 You can check your position by hovering the `Statistics` tab and clicking on `Leaderboard`.  Tip: your score will increase faster if you paste all the sigs in every wormhole you enter (regardless of if the sigs have been scanned down or not) and paste all of them again each time you make an amount of progress while scanning a signature.
 
 ## Content Creators
 
-**All PVP loot** (or its market value if desired) will be awarded to the scout who was responsible for finding it.
+**All PVP loot awarded to the scout responsible for finding it** (or its market value if desired).
 
 This means the person who
 
@@ -44,7 +44,7 @@ Everything you just said is why scouting isn't easy and the people who work to b
 
 ## Forward Tacklers
 
-**SRP** will be available to the pilot(s) responsible for light/initial tackle.
+**SRP available to the pilot(s) responsible for light/initial tackle**.
 
 Does not apply to heavy/secondary tackle.  In wormholes, we recommend you use cloaky ships (usually bombers, to avoid targetting delay); in k-space cloakies, interceptors, or fast frigs are most common.
 
