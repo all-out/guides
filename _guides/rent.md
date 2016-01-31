@@ -35,14 +35,16 @@ Assets belonging to renters who go inactive or miss payments will first be moved
 |   Cuckdari Tengoos [fuel]     |     200m    |
 | Deutsche Stripperinnen [fuel] |     200m    |
 |     Vippy [subscription]      |     300m    |
+|      Top Scanner Prize        |      50m    |
 |        Miscellaneous          |     200m    |
 {: class="table"}
 
-Total cost is 1.5b monthly; rent will likely be between 40m to 80m monthly.
+Total cost is 1.55b monthly; rent will likely be between 40m to 80m monthly.
 
 Miscellaneous expenses include but are not limited to:
 
-- Subsidizing hole-rolling ships
+- [Subsidizing hole-rolling ships](http://all-out.github.io/guides/rolling/)
+- [SRP for forward tackle](http://all-out.github.io/guides/prizes/)
 - Subsidizing home-defense ships
 - Subsidizing cheap roaming ships
 
@@ -114,3 +116,4 @@ Thank you to our pledgers for bringing everyone else's rent down XXAMOUNTXX:
 *[CHA]: Corporate Hangar Array
 *[PHA]: Personal Hangar Array
 *[LSAA]: Large Ship Assembly Array
+*[SRP]: Ship Replacement Policy
