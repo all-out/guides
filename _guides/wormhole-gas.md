@@ -16,6 +16,57 @@ Gas huffing in wormhole space can make you some decent money with a reasonable s
 * TOC
 {:toc}
 
+## External Resources
+
+["X Up for Ninja Huffing" Spreadsheet](https://docs.google.com/spreadsheets/d/19u20zoTLCk5Cuy7HTqJPXrF4hZ6gsKlD1zmIb8Cn9b8/edit#gid=0) is designed for pilots to enter their personal huffing rate (in m3/s) and then *x* up if they are coming on the fleet.  This allows a given fleet composition to clearly see:
+
+- The relative value of the gas sites in a given wormhole (huff the highest ones first)
+- Which cloud should be huffed first inside a given site (green then yellow then red)
+
+[Rykki's Guides: Wormhole PvE](https://docs.google.com/spreadsheets/d/17cNu8hxqJKqkkPnhDlIuJY-IT6ps7kTNCd3BEz0Bvqs/pubhtml#) has a *Gas Sigs* tab which shows, for each site:
+ - Kind/number of rats
+ - Incoming DPS numbers
+ - Blue loot value
+ - Estimated total gas value
+
+## Wormhole Gas Sites
+
+Every site contains two clouds of different kinds ~50km apart.
+
+The first time a pilot *initiates warp* to a freshly spawned wormhole gas site (the moment the little pop-up with the name of the site appears for him) an invisible timer starts in the site.  At some point between 15 to 20 minutes later, the site rats spawn.
+
+Once the rats are killed in a wormhole gas site, they do not respawn. (Unlike many k-space mining/huffing sites.)
+
+### Ninja Huffing
+
+Your goal is to huff as much value in gas using Ventures as you can before the site rats spawn.  When they show up, you get the hell out of dodge.
+
+As a rule of thumb, the more Ventures you bring to the site, the more money will be made (the number of Ventures needed to completely clear some sites in under 20 minutes is ridiculously high).  If a high-value gas site is found (one that contains `Core` in the name) and no one online is capable of clearing the rats, it's worth pinging in Slack and giving people some time to form a fleet to ninja it.  Ninja-ing a `Core` site with one or two people is a waste of good gas.
+
+
+
+#### Before Warping In
+
+- Make sure you are *not* about to enter a `Ordinary Perimeter` site:
+    - These do not have the 20 min rat timer
+    - There are sentry towers that alpha Ventures as they warp in
+- Make sure you have a `5MN MWD` of some kind fitted
+- Make sure you have two `Gas Cloud Harvesters` fitted
+- Make sure you have `Harvestable Clouds` displayed on one of your overview tabs (it's under the `Celestials` tab)
+- Make sure everyone in fleet knows which cloud is higher value and should be huffed first (see the "X Up for Ninja Huffing" spreadsheet in the [External Resources](#external-resources) section)
+
+### Clearing Rats
+
+Your goal is to clear the rats from the site completely, loot and salvage them, and then huff all of the gas at your leisure.  Note that clearing rats and huffing in a fleet will make you less money than doing all of it solo (compared to ninja-huffing where it literally doesn't matter how many other people there are).
+
+- All 5 `Perimeter` sites are found in all classes of wormholes.  They can be soloed in a confessor.
+    - The `Ordinary Perimeter` site has sentry towers with low DPS but high alpha.  Start (and stagger) your reps while in warp to the site and establish transversal ASAP.
+- Both `Frontier` sites are found in C3 wormholes and up.  They can also be soloed in a confessor with good piloting.
+- Both `Core` sites are found in C5 and C6 wormholes only.  These are dicks to clear.  Refer to experienced players for more information about necessary fleet composition.
+    - The `Instrumental Core` site is the *only* one that scrams.  All other sites you can warp out of freely.
+
+For more detailed combat information, refer to "Rykki's Guides: Wormhole PvE" in the [External Resources](#external-resources) section.
+
 ## Skills
 
 If you made your character after September 29th, 2015 (when starting SP was buffed to from 50k to 400k), then you already have `Mining Frigate I` and `Mining III` trained.  Time estimates below are made assuming this is the case for you, and you are on the default 20/20/19/20/20 remap and have no implants.
@@ -111,3 +162,4 @@ You have one low slot:
 *[MWD]: Microwarpdrive
 *[AB]: Afterburner
 *[EHP]: Effective HP (taking resists into account)
+*[DPS]: Damage per Second
