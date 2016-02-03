@@ -9,7 +9,7 @@ excerpt: >
 ---
 ## Introduction
 
-Gas huffing in wormhole space can make you some decent money with a reasonable skillpoint and isk investment.  The main skillbook costs 24m ISK and it takes about a week to train the skills to 90% of maximum efficiency.
+Gas huffing in wormhole space can make you some decent money with a reasonable skillpoint and isk investment.  The main skillbook costs 24m ISK and it takes about a week to train the skills to 90% of maximum efficiency.  With the [normal skills](#normal-skills) listed here, I can make a mil every 30 seconds huffing c320.  And once you've huffed the gas, you don't even need to haul it out - you can sell it for cash in our wormhole using our [buyback program](http://all-out.github.io/guides/buy-back-program/).
 
 ## Overview
 
@@ -23,15 +23,23 @@ Gas huffing in wormhole space can make you some decent money with a reasonable s
 - The relative value of the gas sites in a given wormhole (huff the highest ones first)
 - Which cloud should be huffed first inside a given site (green then yellow then red)
 
+If you want to use this spreadsheet and are not a member of All-Out, be nice and make a copy of it on your Google Drive for use with your group of pilots.
+
 [Rykki's Guides: Wormhole PvE](https://docs.google.com/spreadsheets/d/17cNu8hxqJKqkkPnhDlIuJY-IT6ps7kTNCd3BEz0Bvqs/pubhtml#) has a *Gas Sigs* tab which shows, for each site:
  - Kind/number of rats
  - Incoming DPS numbers
  - Blue loot value
  - Estimated total gas value
 
+[Fuzzworks Gas Page](https://www.fuzzwork.co.uk/ore/gas.html) has a table of all gases (both wormhole and k-space) showing up-to-date values from Eve-Central:
+- m3/unit
+- ISK/unit
+- ISK/m3
+- ISK/Venture
+
 ## Wormhole Gas Sites
 
-Every site contains two clouds of different kinds ~50km apart.
+Every site contains two clouds of different kinds about 50km apart.
 
 The first time a pilot *initiates warp* to a freshly spawned wormhole gas site (the moment the little pop-up with the name of the site appears for him) an invisible timer starts in the site.  At some point between 15 to 20 minutes later, the site rats spawn.
 
@@ -45,7 +53,7 @@ As a rule of thumb, the more Ventures you bring to the site, the more money will
 
 
 
-#### Before Warping In
+#### Pre-Warp Check
 
 - Make sure you are *not* about to enter a `Ordinary Perimeter` site:
     - These do not have the 20 min rat timer
