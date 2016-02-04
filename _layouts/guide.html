@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div id="content" class="container">
-  {% include logo-title.html title=page.title author=page.author %}
+  {% include logo-title.html title=page.title %}
+  <span class="author">by {{ page.author }}</span>
   <div class="panel panel-default">
       <div class="panel-body">
         {{ content }}
