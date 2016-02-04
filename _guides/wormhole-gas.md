@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: true
+disabled: false
 title: All-Out Guide to Wormhole Gas
 shorttitle: Wormhole Gas
 author: Mussah Yacoub
