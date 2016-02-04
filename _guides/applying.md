@@ -16,7 +16,7 @@ excerpt: >
 ## Getting to Know Each Other
 
 ### The Relaxed Way
-
+d
 **Do this if:** You're already playing regularly and are interested in checking out All-Out culture to see if it's a fit for you.  You don't mind spending anywhere from a couple of days to a couple of weeks before deciding if you want to apply and you're still having fun wherever you are.
 
 - Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
@@ -27,7 +27,7 @@ excerpt: >
 
 **Do this if:** You're just returning to the game (or starting the game) and want to jump right in with a corp to start doing things immediately.  You already have an idea of who All-Out are and what we do from hearing through friends or from [the thread](http://orph.link/eog), and you want in.
 
-Send a mail to one of the directors.  Hit these points, plus any other info you think is relevant:
+Send a mail to one of the [directors](http://all-out.github.io/guides/people/#directors).  Hit these points, plus any other info you think is relevant:
 
 - What have you been doing in Eve till now?
 - What are you excited about doing in Eve?  What kind of goals do you have?
