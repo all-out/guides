@@ -9,7 +9,7 @@ excerpt: >
 ---
 ## Introduction
 
-Gas huffing in wormhole space can make you some decent money with a reasonable skillpoint and isk investment.  The main skillbook costs 24m ISK and it takes about a week to train the skills to 90% of maximum efficiency.  With the [normal skills](#normal-skills) listed here, I can make a mil every 30 seconds huffing c320.  And once you've huffed the gas, you don't even need to haul it out - you can sell it for cash in our wormhole using our [buyback program](http://all-out.github.io/guides/buy-back-program/).
+Gas huffing in wormhole space can make you some decent money with a reasonable skillpoint and isk investment.  The main skillbook costs 24m ISK and it takes about a week to train the skills to 90% of maximum efficiency.  With the [normal skills](#normal-skills) listed here, I can make a mil every 30 seconds huffing c320.  And once you've huffed the gas, you don't even need to haul it out - you can sell it for cash in our wormhole using our [buyback program](http://all-out.github.io/guides/buy-back-program/). "{{ page.path }}"
 
 ## Overview
 
