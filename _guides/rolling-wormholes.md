@@ -91,26 +91,27 @@ Reinforced Bulkheads II
 Reinforced Bulkheads II
 Reinforced Bulkheads II
 
-500MN Cold-Gas Enduring Microwarpdrive
-J5 Prototype Warp Disruptor I
-X5 Prototype Engine Enervator
-[Empty Med slot]
+500MN Y-T8 Compact Microwarpdrive
+Cap Recharger II
+Large Micro Jump Drive
+J5b Phased Prototype Warp Scrambler I
 
-Heavy Infectious Scoped Energy Neutralizer
-Heavy Infectious Scoped Energy Neutralizer
-Large EMP Smartbomb I
-Large Graviton Smartbomb I
-Large Proton Smartbomb I
+Heavy Gremlin Compact Energy Neutralizer
+Heavy Gremlin Compact Energy Neutralizer
+Heavy Gremlin Compact Energy Neutralizer
 Prototype Cloaking Device I
+Large 'Notos' Explosive Charge I
+Large 'Notos' Explosive Charge I
 Core Probe Launcher I, Core Scanner Probe I
 
-Large Transverse Bulkhead I
-Large Transverse Bulkhead I
 Large Higgs Anchor I
+Large Transverse Bulkhead I
+Large Transverse Bulkhead I
 
-Acolyte II x2
-Warrior II x3
-Hornet EC-300 x10
+
+Hobgoblin II x5
+Hornet EC-300 x5
+Warrior II x5
 ~~~
 
 #### Thorax (~13m)
@@ -129,7 +130,7 @@ Damage Control II
 [Empty Med slot]
 [Empty Med slot]
 
-[Empty High slot]
+Core Probe Launcher I, Core Scanner Probe I
 [Empty High slot]
 [Empty High slot]
 [Empty High slot]
