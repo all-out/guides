@@ -13,21 +13,13 @@ excerpt: >
 * TOC
 {:toc}
 
-## Getting to Know Each Other
+## The Application
 
-### The Relaxed Way
-d
-**Do this if:** You're already playing regularly and are interested in checking out All-Out culture to see if it's a fit for you.  You don't mind spending anywhere from a couple of days to a couple of weeks before deciding if you want to apply and you're still having fun wherever you are.
+You can submit your application to the corp in-game at any time.  You need to include a **full API key** and an **email address**, or it will be rejected and you will need to reapply.
 
-- Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
+### General Questions
 
-- You need to eventually talk to one of the [directors](http://all-out.github.io/guides/people/#directors).  We log in pretty much daily, so you'll see us around.  (The AUTZ director position is open; we provide competitive rates payable in `Exotic Dancers, Male` for qualified applicants.)
-
-### The Speedy Way
-
-**Do this if:** You're just returning to the game (or starting the game) and want to jump right in with a corp to start doing things immediately.  You already have an idea of who All-Out are and what we do from hearing through friends or from [the thread](http://orph.link/eog), and you want in.
-
-Send a mail to one of the [directors](http://all-out.github.io/guides/people/#directors).  Hit these points, plus any other info you think is relevant:
+This section can be waived at a [director](http://all-out.github.io/guides/people/#directors)'s discretion.  If one of them tells you that you don't need to answer these, please **say so in your application** and **include the director's name**.
 
 - What have you been doing in Eve till now?
 - What are you excited about doing in Eve?  What kind of goals do you have?
@@ -38,28 +30,39 @@ Send a mail to one of the [directors](http://all-out.github.io/guides/people/#di
 - Are you USTZ, EUTZ, or AUTZ?  (Or are you a special snowflake of some kind?)
 - Who is you are waifu?
 
-## The Application
-
-You can submit your application to the corp in-game at any time.  You need to include a **full API key** and an **email address**, or it will be rejected and you will need to reapply.
+Feel free to include any additional information that you think is relevant.
 
 ### Full API key
 
-As members of a wormhole corp, All-Out pilots live in a POS and have significant access to each other’s ships and assets.  We also recruit a lot of our pilots from 4chan (keeping things interesting, but not particularly safe) and have no minimum requirements for joining (making us vulnerable to day-one spy alts).  Requiring a full API from every account in the corp helps us keep your assets more secure.
+This section is **required**; applications omitting it will be rejected and you will need to reapply.
 
-Use this link to make your key [http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823](http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823) and set your fields like this:
+Use this link to make your API key [http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823](http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823) and set your fields as follows:
 
 - Name - `All-Out`
 - Character - `All`
 - Type - `Character`
 - Expires - `No Expiry`
 
-In the body of your application you need to include the **key** (a short number) and the **verification code** (a long string of numbers and letters)
+In the body of your application you need to include the **key** (a short number) and the **verification code** (a long string of numbers and letters).  You do not need to include the acess mask.
+
+#### Why do you require a full API?
+
+Like all wormhole corps, All-Out pilots live in a POS and have significant access to each other’s ships and assets.  We also recruit a lot of our pilots from 4chan (keeping things interesting, but not particularly safe) and have no minimum requirements for joining (making us vulnerable to day-one spy alts).  Requiring a full API from every account in the corp helps us keep your assets more secure.
 
 ### Email Address
 
-This is used to invite you to the All-Out Slack server.  Slack is a web chat system based on the XMPP protocol that Jabber, etc use.  Unlike IRC it saves history, so when you log in you can scroll back and get up-to-date on what you've missed.  Most of All-Out's organization and corp discussion happens here.
+This section is **required**; applications omitting it will be rejected and you will need to reapply.
 
-Note: this email address will be visible to all members of the server, so it might be unwise to use a "real life" email.  You don't need to check this address frequently
+Your **email address** is used to send you an invitation email for the All-Out Slack server.  Slack is a web chat frontend for the XMPP protocol that Jabber, etc use.  Unlike IRC it saves history, so when you log in you can scroll back and get up-to-date on what you've missed.  A lot of All-Out's organization, fleet pings, corp discussion, etc happens here - not in corp chat.
+
+Note: your email address will be visible to all members of the server, so it might be unwise to use a "real life" email.  You don't need to check this address frequently
+
+
+## General Appplication Tips
+
+- Avoid one-word answers to the application questions (no need to write a novel, though).
+- Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" title="Click button in in-game browser to join channel" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
+- I (Mussah) am a lazy fart and applications take while to check, so displaying demonstrated interest is a plus.  Your app will probably get processed faster if you mention your impatience to a director in the pub channel from time to time.
 
 ## Why Hasn't My Application Been Accepted?
 
@@ -69,15 +72,15 @@ No? That's why.
 
 Yes?  Keep reading.
 
-### Besides sending an application, have you talked to anyone affiliated with All-Out in any way?
+### Are there any recruitment restrictions in the `DoomedFromTheStart` MOTD?
 
-No? We don't know enough about you to accept you just yet.  Read the "Getting to Know Each Other" section of this guide again and follow it.  You can reapply as many times as you want.
+Yes?  Depending on the situation, the corp might be on lockdown and acceptances are being delayed for security reasons.  Feel free to ask for clarification in the pub channel; if it's not >super opsec< we'll let you know what's up.  When the restrictions are lifted, your app will be processed normally (or we'll mail you with specifics).
 
-Yes?  Keep reading.
+No? Keep reading.
 
 ### Ask a director personally.
 
-If you've included all the information we need and you've talked to us but your application still hasn't been accepted, don't be afraid to mail a director and ask what's up.  The corp might be on lockdown for some reason and application acceptances are being delayed for security.  There might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt to ask.
+If you've included all the information we need and there are no current restrictions and you've talked to us but your application still hasn't been accepted, don't be afraid to mail a director and ask what's up.  Mostly likely we're just busy and haven't gotten around to it and a mail will remind us.  Or there might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt at all to ask.
 
 *[USTZ]: United States Time Zone
 *[EUTZ]: European Time Zone
