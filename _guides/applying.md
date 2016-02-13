@@ -45,7 +45,7 @@ Use this link to make your API key [http://community.eveonline.com/support/api-k
 
 In the body of your application you need to include the **key** (a short number) and the **verification code** (a long string of numbers and letters).  You do not need to include the acess mask.
 
-#### Why do you require a full API?
+#### Why does All-Out require a full API?
 
 Like all wormhole corps, All-Out pilots live in a POS and have significant access to each other’s ships and assets.  We also recruit a lot of our pilots from 4chan (keeping things interesting, but not particularly safe) and have no minimum requirements for joining (making us vulnerable to day-one spy alts).  Requiring a full API from every account in the corp helps us keep your assets more secure.
 
@@ -58,7 +58,7 @@ Your **email address** is used to send you an invitation email for the All-Out S
 Note: your email address will be visible to all members of the server, so it might be unwise to use a "real life" email.  You don't need to check this address frequently
 
 
-## General Appplication Tips
+## General Application Tips
 
 - Avoid one-word answers to the application questions (no need to write a novel, though).
 - Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" title="Click button in in-game browser to join channel" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
