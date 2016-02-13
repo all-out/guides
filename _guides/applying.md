@@ -15,8 +15,6 @@ excerpt: >
 
 ## The Application
 
-You can submit your application to the corp in-game at any time.  You need to include a **full API key** and an **email address**, or it will be rejected and you will need to reapply.
-
 ### General Questions
 
 This section can be waived at a [director](http://all-out.github.io/guides/people/#directors)'s discretion.  If one of them tells you that you don't need to answer these, please **say so in your application** and **include the director's name**.
