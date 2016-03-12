@@ -105,9 +105,9 @@ Steps:
 4. Double-click the ISK figure above and copy/paste it as the amount
 5. Give "XXMONTHXX" as the reason (Sponsors should also include the name of the sponsored member)
 
-For more information, please read all-out.github.io/guides/rent
+Thank you to our pledgers for committing to bring everyone else's rent down XXAMOUNTXX:
 
-Thank you to our pledgers for bringing everyone else's rent down XXAMOUNTXX:
+For more information, please read all-out.github.io/guides/rent
 ~~~
 
 
