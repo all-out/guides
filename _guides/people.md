@@ -29,11 +29,11 @@ These people have access to characters with at least T2 industrials trained.
 
 | Name | Out-of-Alliance | Deep Space Transport | Freighter |
 |:---:|:---:|:---:|:---:|
-| [Snoop Dong](http://evewho.com/pilot/Snoop+Dong) | x | unknown | |
+| [Snoop Dong](http://evewho.com/pilot/Snoop+Dong) | x | 60k m3 | 543k m3 |
 | [Scorpius Aya](http://evewho.com/pilot/Scorpious+Aya) | x | unknown | unknown|
-| [John Freechman](http://evewho.com/pilot/John+Freechman) | | 60 + 4.5 k m3 | |
+| [John Freechman](http://evewho.com/pilot/John+Freechman) | | 60k + 4.5k m3 | |
 | [Ross Lorax](http://evewho.com/pilot/Ross+Lorax) | | unknown | |
-| [Marle Audeles](http://evewho.com/pilot/Marle+Audeles) | x | 55k m3 | 845k m3 |
+| [Marle Audeles](http://evewho.com/pilot/Marle+Audeles) | x | 55k m3 | 370k-845k m3 |
 | [Tehol Aerus](http://evewho.com/pilot/Tehol+Aerus) | | unknown | |
 | [Dylann Noree](http://evewho.com/pilot/Dylann+Noree) | | unknown | |
 | [Amplify](http://evewho.com/pilot/Amplify) | | unknown | |
