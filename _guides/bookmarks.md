@@ -10,90 +10,64 @@ excerpt: >
   navigate through our chains with very little effort.
 ---
 
-## Basic Concepts
-
-Every **system** is named with a sequence of digits.  Our **home system** is
-named `0`.  Examples of other system names might be `112`, `3`, or `132`.
-
-Every **bookmark** is named using the `name of the system you are in`, a
-`hyphen`, and the `name of the system you are going to`.  Example bookmark
-names: `112-1123` and `0-3`.  The bookmarks on the other side of those
-particular connections are naturally the reverse: `1123-112` and `3-0`.
-
-Every **connection** inside a given system has a **designation** (a digit or
-letter code) that is not shared by any other connection *in that system*.
-Example designations: `1`, `2`, `3`, `Ha`, `La`, `Lb`
-
-A **child system name** is created by sticking together its `parent system’s
-name` and the `designation of the parent-to-child connection`.  Examples: given
-a system named `12` and a connection designated `4`, the child system through
-that connection is named `124`.  A system named `2` and connection designated
-`La` gives a child named `2La`.
-
----
-
-## How Connections are Designated
-
-### J-space Connections
-
-If the connection is the J-space static, it’s designated `1`.  (Note: `1` never
-designates *anything* but a J-space static connection)
-
-For all subsequent J-space connections (both second static or wandering),
-designations are assigned with the next unused digit from the sequence `2-9`.
-
-### K-space Connections
-
-In place of digits, letter codes are used.  `Ha`, `Hb`, `Hc`, etc. for high
-sec; `La`, `Lb`, `Lc`, etc. for low sec; `Na`, `Nb`, `Nc`, etc. for null sec.
-
-If the connection is the K-space static, it’s designated either `Ha`, `La`, or
-`Na` depending on security.  (Note: the fact that the designation ends in “a”
-is *not* a sure indication that the connection is a static.)
-
-For all subsequent K-space connections (both second static or wandering),
-designations are assigned with their security letter and the next unused letter
-of the alphabet for that security.  (If there is already just a `Ha` and a
-`Hb`, the next high sec is `Hc`.  If a null sec is found next, it’s `Na`.)
-
----
-
-## More Examples
-
-### System Names
-
-- Home system: `0`
-- Our C3 static system: `1`
-- Our high sec static system: `Ha`
+Adapted from Oruze Cruise's "Guide to Naming WH Maps & Bookmarks"
 
 
-- If our C3 static’s static was in null sec, the null system would be named: `1Na`
-- If our C3 had a single wandering connection and it was a C5, the C5 would be named: `12`
-- And then that C5’s static system (has to be a wormhole) would be named: `121`
+## Bookmark Naming
 
-- If home had a wandering high sec connection, it would be named `Hb`
-- If home had a wandering null sec connection, it would be named `Na`
-- If home had three wandering wormhole connections, they would be called `2`, `3`, and `4`
-- If `2` also had three wandering wormhole connections, they would be called `22`, `23`, and `24`
+Every wormhole bookmark is named after the system you will land in if you jump through the wormhole.
 
-### Bookmark Names
+To keep you oriented, bookmarks on wormholes that lead *back* up the chain to our home Joruzesalem are prefixed with `!`.  This means in any given wormhole in our chains, you will see one bookmark that starts with `!` (going home) and one, some or no bookmarks that don't (going outwards).
 
-- Home > our C3 static: `0-1`
-- Home > our high sec static: `0-Ha`
 
-- Our C3 static > its null sec static: `1-1Na`
-- Our C3 static > its wandering C5: `1-12`
-- That C5 > that C5’s static: `12-121`
+## Wormhole System Name Components
 
-- Home > three wandering wormholes: `0-2`, `0-3`, `0-4`
-- 2 > three wandering wormholes: `2-22`, `2-23`, `2-24`
+All wormholes are named with this form: `(chain name).(wormhole class)(occurance)`
 
---- 
+Remember: when you add a new wormhole system to Siggy, use the map and use `right click > edit` in order to set the wormhole's name.  Also set the destination name of wormhole signatures in the signature list below the map.
 
-## Benefits Of This System (or, Why The Hell Are You Doing This To Us; It Hurts)
 
-- It is more concise than other systems we’ve used (less typing, more scanning)
-- There is no need to indicate the “home direction” with special characters (the bookmark that goes towards home is always at the top in the right click menu because of alphabetical sorting)
-- When a connection despawns, all of the now-useless bookmarks below that point in the tree can be identified and removed easily - by sorting the bookmarks by name and removing all bookmarks starting with the sequence of digits of the last valid bookmark.
-- Each system name contains all of the information needed to get to it in the chain without needing to refer to the map
-- Vippy, our mapping software, automatically names the systems in our map according to this system, meaning there is one less data entry step to get right.
+### Chain Name
+
+Our home hole Joruzesalem has two static chains, named `s3` and `s4` for the C3 and C4 chains respectively.  Any incoming wandering chains to Joruzsalem will be named `a`, `b`, `c`, etc.
+
+The name of the chain starts the name of every wormhole in that chain.  This means that when the chain's connection to Joruzesalem closes, we can easily archive all bookmarks that start with that chain's name.
+
+
+### Wormhole Class
+
+Possible values: `C1`, `C2`, `C3`, `C4`, `C5`, `C6`, `HS`, `LS`, `NS`.
+
+Note: all letters are capitalized.
+
+### Occurance
+
+This is a single letter that distinguishes the hole from other holes in its chain that are the same class.  Joruzesalem's static wormholes have the occurance `s`.  All other wormholes have occurances `a`, `b`, `c`, etc.
+
+The important thing is that no two wormholes on the map have the same full name.  As long as that is true, the exact occurance code doesn't matter too much.  In order to deal with large maps, it's simpler to only consider other holes in the *same* chain when figuring out the next occurance code to use.
+
+
+## Examples
+
+### s3.C3s
+
+This is the name of our C3 static **system**.  It is the first wormhole of the `s3` chain.  It is a class 3 wormhole and one of our statics, so it has the `s` occurance.
+
+### s3.HSa
+
+This is a highsec **system** in the `s3` chain.  It was the first highsec system on the map, so it has the `a` occurance.
+
+### b.C6c
+
+This is a class 6 wormhole **system**.  The `b` chain name means it's in the second wandering chain attached to Joruzesalem, and the `c` occurance means it's the third C6 found in that chain.
+
+
+## Weird Examples
+
+### !s4.C4s
+
+This is what you would name the **bookmark** on the connection that, when you enter it, takes you into our class 4 static (the first system in our `s4` chain) from the system one jump further down the chain.  The jump brought you closer to home, so there is a `!` prefix.
+
+### !s4.home
+
+This is the name of the **bookmark** on the connection that takes you from the class 4 static into Joruzesalem itself.  Including the chain name means, again, that this bookmark can be archived when the chain closes.  If you simply use `!home`, that's harder to do.

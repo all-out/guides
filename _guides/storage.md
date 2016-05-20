@@ -19,21 +19,21 @@ There are no stations in wormholes.  We live in POS's instead - essentially bubb
 
 ## Your Permissions
 
-Open your pilot information window and check the titles assigned to you:
+Open your pilot information window and check the titles assigned to you (they may not be in the same order as shown):
 
 ![Where to find division titles on your profile]({{site.baseurl}}/img/division.png)
 {: .text-center}
 
 ### Your Tower
 
-As a corp member you can enter the public staging tower `Tengoo Fun Club` and one more private home tower (shown in your titles).  You should keep most of your assets in your home tower.  The director of your home tower should contact you and give you the password you need to enter the forcefield.
+As a corp member you can enter the public staging tower `Tengoo Fun Club` and one more private home tower (shown in your titles).  You should keep most of your assets in your home tower.  A director should invite you to that tower's password channel on Slack; the password will be in the MOTD.
 
-| Code |      Tower Name      |    Director   |
-|:----:|:--------------------:|:-------------:|
-|   A  |    Tengoo Fun Club   |    [Public]   |
-|   B  |  Brutor Spiderlings  | Mussah Yacoub |
-|   C  |   Cuckdari Tengoos   |    Nootkin    |
-|   D  | Deutche Stripperinen |  Syco Phantic |
+| Code |      Tower Name      |
+|:----:|:--------------------:|
+|   A  |    Tengoo Fun Club   |
+|   B  |  Brutor Spiderlings  |
+|   C  |   Cuckdari Tengoos   |
+|   D  | Deutche Stripperinen |
 {: class="table"}
 
 ### Your Division
@@ -72,3 +72,4 @@ Whatever you bring into a wormhole is already lost, so make sure you can afford 
 *[PHA]: Personal hangar array
 *[SMA]: Ship Maintenence Array
 *[LSAA]: Large Ship Assembly Array
+*[MOTD]: Message of the Day

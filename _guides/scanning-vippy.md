@@ -30,7 +30,7 @@ Optional but recommended:
 1. Set Vippy as your home page in the IGB
 1. Set Vippy to remember your login info
 
-This means simply hitting `Ctrl-B` will log you in (which you should be, whenever you're playing).
+This means simply hitting `Alt-B` will log you in (which you should be, whenever you're playing).
 
 ## Scanning a System Properly
 
