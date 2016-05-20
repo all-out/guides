@@ -55,7 +55,7 @@ This is the name of our C3 static **system**.  It is the first wormhole of the `
 
 ### s3.HSa
 
-This is a highsec **system** in the `s4` chain.  It was the first highsec system on the map, so it has the `a` occurance.
+This is a highsec **system** in the `s3` chain.  It was the first highsec system on the map, so it has the `a` occurance.
 
 ### b.C6c
 
