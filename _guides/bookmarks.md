@@ -10,8 +10,12 @@ excerpt: >
   navigate through our chains with very little effort.
 ---
 
-Adapted from Oruze Cruise's "Guide to Naming WH Maps & Bookmarks"
+Adapted from Oruze Cruise's [Guide to Naming WH Maps & Bookmarks]({{site.baseurl}}/img/oruze_bookmark_guide.png).  All-Out is using Oruze's naming system for the moment because we are sharing a wormhole with them.
 
+## Overview
+
+* TOC
+{:toc}
 
 ## Bookmark Naming
 
@@ -49,25 +53,32 @@ The important thing is that no two wormholes on the map have the same full name.
 
 ## Examples
 
-### s3.C3s
+### Standard Examples
+
+#### s3.C3s
 
 This is the name of our C3 static **system**.  It is the first wormhole of the `s3` chain.  It is a class 3 wormhole and one of our statics, so it has the `s` occurance.
 
-### s3.HSa
+#### s3.HSa
 
 This is a highsec **system** in the `s3` chain.  It was the first highsec system on the map, so it has the `a` occurance.
 
-### b.C6c
+#### b.C6c
 
 This is a class 6 wormhole **system**.  The `b` chain name means it's in the second wandering chain attached to Joruzesalem, and the `c` occurance means it's the third C6 found in that chain.
 
 
-## Weird Examples
+### Weird Examples
 
-### !s4.C4s
+#### !s4.C4s
 
 This is what you would name the **bookmark** on the connection that, when you enter it, takes you into our class 4 static (the first system in our `s4` chain) from the system one jump further down the chain.  The jump brought you closer to home, so there is a `!` prefix.
 
-### !s4.home
+#### !s4.home
 
 This is the name of the **bookmark** on the connection that takes you from the class 4 static into Joruzesalem itself.  Including the chain name means, again, that this bookmark can be archived when the chain closes.  If you simply use `!home`, that's harder to do.
+
+### Map Example
+
+![Example Siggy map with named systems]({{site.baseurl}}/img/example_siggy_map.png)
+{: .text-center}
