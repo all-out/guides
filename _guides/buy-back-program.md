@@ -3,14 +3,14 @@ layout: guide
 disabled: false
 title: All-Out Guide to Killar's Buy-Back Program
 shorttitle: Buy-Back Program
-author: Mussah Yacoub & Killar Monk
+author: Mussah Yacoub
 excerpt: >
     Killar Monk buys all kinds of things in Joruzesalem at Jita buy prices.
 ---
 
 ## Introduction
 
-Hi, my name is [Killar Monk](http://evewho.com/pilot/Killar+Monk) and I will buy stuff from [White Stag Exit Bag](http://evewho.com/alli/White+Stag+Exit+Bag) members (and affiliates) in Joruzesalem at **Jita buy price**, saving you the trouble of shipping cargo down the chain out yourself.
+Hi, my name is [Killar Monk](http://evewho.com/pilot/Killar+Monk) and I will buy stuff from [White Stag Exit Bag](http://evewho.com/alli/White+Stag+Exit+Bag) members (and affiliates) in Joruzesalem at **Jita buy price**, saving you the trouble of shipping cargo down the chain yourself.
 
 ## Overview
 
@@ -34,6 +34,7 @@ I will receive an evemail with a list of all the items you've delivered to me.  
 
 - Sleeper loot ("blue loot")
 - Relic and data loot (from both pirate and sleeper sites)
+- Planetary interaction materials
 - All kinds of salvage (normal ships and sleeper ships)
 - Ship modules (pvp loot, ratting loot, manufactured goods)
 - Wormhole gas
@@ -51,9 +52,9 @@ I have an out-of-corp DST pilot, so I am able to keep services going even when t
 
 I will pay the full value of the items to the person who delivered it to me.  If the items represent a group effort, the group needs to figure out the split themselves.
 
-### Payments are not instant
+### Payments schedule
 
-Depending on what k-space connections we get get in our chain and what kind of cash flow I have, it may take a few days to get payments made.  Don't worry, I'm working on it and haven't forgotten you.
+When I get a delivery notification, I'll pay you your ISK as soon as possible.  I don't need to haul and sell before paying.
 
 
 *[DST]: Deep Space Transport
