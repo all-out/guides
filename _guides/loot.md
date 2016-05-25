@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: false
+disabled: true
 title: All-Out Guide to PVP Loot Division
 shorttitle: Loot Division
 author: Reyni Allas-Rui
