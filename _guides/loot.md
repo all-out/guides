@@ -2,11 +2,16 @@
 layout: guide
 disabled: false
 title: All-Out Guide to PVP Loot Division
-shorttitle: PvP Loot Guides (in progress)
+shorttitle: Loot Division
 author: Reyni Allas-Rui
 excerpt: >
   How loot should be split after a PVP operation.
 ---
+
+## Overview
+
+* TOC
+{:toc}
 
 ## Responsibility
 
