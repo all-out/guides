@@ -34,7 +34,7 @@ Feel free to include any additional information that you think is relevant.
 
 This section is **required**; applications omitting it will be rejected and you will need to reapply.
 
-Use this link to make your API key [http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823](http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=1073741823) and set your fields as follows:
+Use this link to make your API key [http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=4294967295](http://community.eveonline.com/support/api-key/CreatePredefined?accessMask=4294967295) and set your fields as follows:
 
 - Name - `All-Out`
 - Character - `All`
