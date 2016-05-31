@@ -8,6 +8,10 @@ excerpt: >
   In-depth coverage of how to make money off relic and data sites in dangerous space as a young character.  You don't have to risk much, you learn a lot in the process, and the money is very good compared to most other new-player friendly professions.
 ---
 
+**NOTE: Guide Has Moved (30 May 2016)**
+
+This version of the guide will no longer be updated.  The [actively maintained version](http://wiki.whitestagexitbag.org/doku.php/public/guides/exploration) is now hosted on the [White Stag Exit Bag Wiki](http://wiki.whitestagexitbag.org/).
+
 ## <a name="introduction"></a>Introduction
 
 It's possible for a newbro to make excellent money by exploring nullsec and wormhole space, and if you know what you are doing you don't have to risk very much.  Hopefully this guide helps you know what you are doing a little better.
