@@ -390,4 +390,29 @@ Small Gravity Capacitor Upgrade I
 
 #### <a name="astero"></a>Sisters of Eve (Astero)
 
-When someone gives me some decent Astero fits and information about how to use them, I'll put them here.  I don't usually fly Asteros myself.
+The Astero is a very expensive investment in exploration ships at approximately 200million ISK, but it can pay off quite nicely. The fit below isn't designed to fight at all, but istead with the warp core stabilizers and inertial stabilizers it's designed to just be able to get away from everything with 1.89s Align time it's almost impossible to catch.
+
+Covert Ops Cloaking is fantastic for wormhole Data and Relic sites as you can warp cloaked. And the Zeugma Integrated Analyser is a strong hacking tool for both Data and Relic sites, which also allows you to add a Cargo Scanner to see if the cans are even worth the effort.
+
+This fit is great for doing C1-C3 pirate faction sites in relative safety.
+
+~~~
+[Astero, Explo Astero]
+
+Inertial Stabilizers II
+Inertial Stabilizers II
+Warp Core Stabilizer I
+Warp Core Stabilizer I
+
+5MN Microwarpdrive II
+Zeugma Integrated Analyzer
+Cargo Scanner II
+Scan Rangefinding Array II
+
+Covert Ops Cloaking Device II
+Sisters Core Probe Launcher, Sisters Core Scanner Probe
+
+Small Cargohold Optimization II
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+~~~
