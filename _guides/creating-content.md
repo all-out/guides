@@ -17,7 +17,7 @@ There are players in wormhole space and null who are making a lot of money runni
 
 And we won't kill them by sitting in our POS.
 
-And we won't kill them by not logging in and asking in slack "content when?".
+And we won't kill them by not logging in and asking in discord "content when?".
 
 With scouting and scanning we have gotten some excellent fights in wormhole space and null.  That's how we badoodled an Isogen 5 fleet, that's how I found the AFK Chimera, etc., etc.
 
