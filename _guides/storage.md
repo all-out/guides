@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: false
+disabled: true
 title: All-Out Guide to Storage
 shorttitle: Storage
 author: Mussah Yacoub
