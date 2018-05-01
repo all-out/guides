@@ -120,6 +120,10 @@ Large Transverse Bulkhead I
 Large Transverse Bulkhead I
 
 Navy Cap Booster 3200 x2
+Mobile Depot
+Prototype Cloaking Device I
+Core Probe Launcher I
+Core Scanner Probe I x16
 
 ### Gun Megathron
 
@@ -153,9 +157,11 @@ Large Transverse Bulkhead I
 Hobgoblin II x1
 Hammerhead II x2
 Federation Navy Ogre x2
-Sisters Core Scanner Probe x8
-Caldari Navy Antimatter Charge L x2000
-Standard Drop Booster x1
+Caldari Navy Antimatter Charge L x1000
+Mobile Depot
+Prototype Cloaking Device I
+Core Probe Launcher I
+Core Scanner Probe I x16
 
 
 
