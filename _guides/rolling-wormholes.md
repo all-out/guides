@@ -9,7 +9,7 @@ excerpt: >
 ---
 ## Introduction
 
-Wormholes collapse if enough mass jumps through them.  We can ram our holes with massive ships in a controlled way to close them safely.  We do this to secure our hole, get better kspace exits, or get new wormhole space chains.
+Wormholes collapse if enough mass jumps through them.  We can ram our holes with massive ships in a controlled way to close them safely.  We do this to secure our hole, get better kspace exits, or get new wormhole chains.
 
 ## Overview
 
@@ -28,7 +28,7 @@ Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal
 
 #### Home Statics
 
-All-Out's statics both have 2b total mass plus or minues another 200m. They "mass" or "reduce" after approximately 1b and "crit" after 1.8b.  The heaviest ship that can enter them is 300m.
+All-Out's statics both have 2b total mass plus or minus another 200m. They "mass" or "reduce" after approximately 1b and "crit" after 1.8b.  The heaviest ship that can enter them is 300m.
 
 Please note the variation above, this can get you rolled out so keep your brain switched on.
 
@@ -64,6 +64,7 @@ OR
 - Hot Hot
 - Hot *(now crit)* Hot *(now rolled)*
 
+
 #### Someone Messed Up and I Just Realized the Regular Jumps Will Roll Me Out if I Keep Doing Them
 
 Best plan is to do some envelope-math with masses to figure out exactly where you stand and what to do, but if you don't want to do that here are rules of thumb:
@@ -74,6 +75,7 @@ Best plan is to do some envelope-math with masses to figure out exactly where yo
 - If it crits and you're outside, coming in Hot will roll it.
 - If it crits and you're inside, use a threading Thorax and a pilot in a cheap clone. Go out Cold and come in Hot until you close the hole or you get rolled out (your choice to self destruct or scan out at that point).
 
+
 #### Shoot, I Just Lost a Corp Mega, Now What?
 
 It should have been insured so you should get a payout for the loss.
@@ -83,6 +85,7 @@ Preferred option is to go ahead and buy another one, platinum insure it and brin
 If you're a bit spacepoor and a director is around, you can ask them to reimburse you from the corp wallet for, say, the insurance cost of the new ship.  Or if you can't afford the ship at all but still want to help, you could ask for reimbursement for the ship price but still bring it into the hole yourself.
 
 If you're spacepoor *and* you have no time to offer, you can at least give the insurance payout back to the corp wallet (into the Rent division) so we can use it to offset the cost of a new one later.
+
 
 ### Fits
 
@@ -164,6 +167,7 @@ Again, the only essential parts of rolling fits are the Large Higgs Anchor I rig
 
 Feel free to experiment. And die.
 ~~~
+
 
 #### Thorax (~13m)
 
