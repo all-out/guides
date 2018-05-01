@@ -23,7 +23,9 @@ With scouting and scanning we have gotten some excellent fights in wormhole spac
 
 *SO GET ON SCANNING YOU FUCKS. STOP WAITING FOR IT. CREATE YOUR OWN FUCKING CONTENT.*
 
-Scan the 1. Then scan the 11, and the 12. And so forth. Null exits are great; null is full of ratters. If you find one, scout out the surrounding null systems.
+Scan the s3. Then scan the connects. And so forth. Null exits are great; null is full of ratters. If you find one, scout out the surrounding null systems.
+
+Generally better to roll if you are starting to go more than 3  jumps into chain. Fresh chains are more likely to have unsuspecting people.
 
 *IF OUR STATIC IS COMPLETELY SCOUTED AND SHIT YOU CAN JUST ROLL IT.*
 
@@ -50,7 +52,7 @@ Use a covops - **Anathema**, **Buzzard**, **Helios**, **Cheetah** and **Astero**
 
 ## You Found a Thing!
 
-Ping `#subbed_eve` with `@channel`.
+Ping `#pings` with `@everyone` with Dscan result and any other useful information.
 
 ## In Closing -
 *DO SOMETHING. DON'T SIT THERE AND WAIT.*
@@ -58,5 +60,3 @@ Ping `#subbed_eve` with `@channel`.
 Even if you don't find any PvP content while scanning, you will at least get rewarded by PvE stuff like juicy relics.
 
 If you are doing sites that have been scanned down by somebody else in the corp, it's nice to drop him a tip. Just check who created the bookmark.
-
-If you are scanning always edit the sigs in vippy. Helps everybody a lot. Thanks. See [All-Out's Guide to Vippy.](http://all-out.github.io/guides/scanning-vippy/)
