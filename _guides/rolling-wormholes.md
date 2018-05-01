@@ -154,9 +154,7 @@ Hobgoblin II x1
 Hammerhead II x2
 Federation Navy Ogre x2
 Sisters Core Scanner Probe x8
-Federation Navy Antimatter Charge L x2401
-Null L x1568
-Void L x2331
+Caldari Navy Antimatter Charge L x2000
 Standard Drop Booster x1
 
 
