@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: false
+disabled: true
 title: All-Out Guide to People
 shorttitle: People
 author: Mussah Yacoub
