@@ -18,7 +18,7 @@ Wormholes collapse if enough mass jumps through them.  We can ram our holes with
 
 ## General Information
 
-Rolling mass amounts are  discussed in very large units. You will probably see both Gg and kT used when reading guides and talking to people - these are both one million kilograms (1,000,000 kg).  Ship mass is usually given in kilograms in fitting programs like Pyfa and EFT, so you might need to move a decimal around at some point.
+Rolling mass amounts are  discussed in very large units. You will probably see both m (million), b (billion) and kT used when reading guides and talking to people.  Ship mass is usually given in kilograms in fitting programs like Pyfa and EFT, so you might need to move a decimal around at some point.
 
 Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal size give an equal mass increase.
 
@@ -28,17 +28,17 @@ Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal
 
 #### Home Statics
 
-All-Out's statics both have 2,000 Gg total mass. They "mass" or "reduce" after 1,000 Gg and "crit" after 200 Gg.  The heaviest ship that can enter them is 300 Gg.
+All-Out's statics both have 2b total mass. They "mass" or "reduce" after approximately 1b and "crit" after 1.8b.  The heaviest ship that can enter them is 300m.
 
 #### Ship Masses
 We use specially-fit Megathrons for most rolling, and cheap Thoraxes for "threading" critted holes:
 
-- Hot Higgs Mega - 300 Gg
-- Cold Higgs Mega - 200 Gg
-- Hot Unrigged Mega - 150 Gg
-- Cold Unrigged Mega - 100 Gg
-- Hot Higgs Thorax - 125 Gg
-- Cold Higgs Thorax - 25 Gg
+- Hot Higgs Mega - 300 m
+- Cold Higgs Mega - 200 m
+- Hot Unrigged Mega - 150 m
+- Cold Unrigged Mega - 100 m
+- Hot Higgs Thorax - 125 m
+- Cold Higgs Thorax - 25 m
 
 ### Procedures
 
@@ -50,10 +50,17 @@ All bets are off once a few ships of unknown mass have jumped through.
 
 *Starting from inside the home hole:*
 
-- Hot Hot
-- Hot Hot *(now massed)*
+- Cold Hot
+- Cold Hot *(now massed)*
 - Cold Hot
 - Cold *(now crit)* Hot *(now rolled)*
+
+OR
+
+- Cold Hot
+- Cold Hot *(not massed)*
+- Hot Hot
+- Hot *(now crit)* Hot *(now rolled)*
 
 #### Someone Messed Up and I Just Realized the Regular Jumps Will Roll Me Out if I Keep Doing Them
 
