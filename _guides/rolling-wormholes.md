@@ -28,7 +28,9 @@ Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal
 
 #### Home Statics
 
-All-Out's statics both have 2b total mass. They "mass" or "reduce" after approximately 1b and "crit" after 1.8b.  The heaviest ship that can enter them is 300m.
+All-Out's statics both have 2b total mass plus or minues another 200m. They "mass" or "reduce" after approximately 1b and "crit" after 1.8b.  The heaviest ship that can enter them is 300m.
+
+Please note the variation above, this can get you rolled out so keep your brain switched on.
 
 #### Ship Masses
 We use specially-fit Megathrons for most rolling, and cheap Thoraxes for "threading" critted holes:
