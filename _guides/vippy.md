@@ -1,6 +1,6 @@
 ---
 layout: guide
-disabled: false
+disabled: true
 title: All-Out Guide to Vippy
 shorttitle: Vippy
 author: Mussah Yacoub
