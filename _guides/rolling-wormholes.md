@@ -80,8 +80,7 @@ If you're spacepoor *and* you have no time to offer, you can at least give the i
 #### Megathron (~220m)
 
 ~~~
-[Megathron, All-Out Rolling Mega]
-
+[Megathron, Rolling Neut Mega]
 Damage Control II
 Reinforced Bulkheads II
 Reinforced Bulkheads II
@@ -92,26 +91,69 @@ Reinforced Bulkheads II
 Reinforced Bulkheads II
 
 500MN Y-T8 Compact Microwarpdrive
-Cap Recharger II
 Large Micro Jump Drive
-J5b Phased Prototype Warp Scrambler I
+Warp Scrambler II
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 3200
 
 Heavy Gremlin Compact Energy Neutralizer
 Heavy Gremlin Compact Energy Neutralizer
 Heavy Gremlin Compact Energy Neutralizer
-Prototype Cloaking Device I
-Large 'Notos' Explosive Charge I
-Large 'Notos' Explosive Charge I
-Core Probe Launcher I, Core Scanner Probe I
+Heavy Gremlin Compact Energy Neutralizer
+Heavy Gremlin Compact Energy Neutralizer
+Medium Gremlin Compact Energy Neutralizer
+Medium Gremlin Compact Energy Neutralizer
 
 Large Higgs Anchor I
 Large Transverse Bulkhead I
 Large Transverse Bulkhead I
 
+Navy Cap Booster 3200 x2
 
-Hobgoblin II x5
-Hornet EC-300 x5
-Warrior II x5
+### Gun Megathron
+
+[Megathron, Megathron import 2]
+Damage Control II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+Reinforced Bulkheads II
+
+Warp Scrambler II
+500MN Y-T8 Compact Microwarpdrive
+Large Micro Jump Drive
+Heavy Karelin Scoped Stasis Grappler
+
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+Modal Mega Ion Particle Accelerator I, Caldari Navy Antimatter Charge L
+
+Large Higgs Anchor I
+Large Transverse Bulkhead I
+Large Transverse Bulkhead I
+
+Hobgoblin II x1
+Hammerhead II x2
+Federation Navy Ogre x2
+Sisters Core Scanner Probe x8
+Federation Navy Antimatter Charge L x2401
+Null L x1568
+Void L x2331
+Standard Drop Booster x1
+
+
+
+#### FC I CAN'T USE A MEGATHRON; I'M A ROLEPLAYER/SPECIAL SNOWFLAKE; MY ROLLING FIT IS BETTER
+
+Again, the only essential parts of rolling fits are the Large Higgs Anchor I rig, and a 100mn/500mn (large) propulsion module.
+
+Feel free to experiment. And die.
 ~~~
 
 #### Thorax (~13m)
