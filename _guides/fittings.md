@@ -92,20 +92,21 @@ Radar ECM II
 Sensor Booster II
 50MN Cold-Gas Enduring Microwarpdrive
 
-Arbalest Compact Light Missile Launcher, Mjolnir Light Missile
-Arbalest Compact Light Missile Launcher, Mjolnir Light Missile
-Arbalest Compact Light Missile Launcher, Mjolnir Light Missile
-Core Probe Launcher I, Core Scanner Probe I
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Arbalest Compact Light Missile Launcher
+Core Probe Launcher I
 
 Medium Particle Dispersion Augmentor I
 Medium Particle Dispersion Projector I
 Medium Particle Dispersion Projector I
 
-Acolyte II x2
+Acolyte I x2
 Targeting Range Script x1
 Scan Resolution Script x1
 ECCM Script x1
 Mjolnir Light Missile x1000
+Core Scanner Probe I x8
 ```
 
 
