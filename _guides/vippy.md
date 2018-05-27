@@ -12,7 +12,7 @@ excerpt: >
 
 ## Introduction
 
-This guide discusses how to record important information in our wormhole mapping software, Vippy.  Our ability to make good decisions and recognize when content and ISK are available depend on your ability to correctly use this tool.
+This guide discusses how to record important information in our wormhole mapping software, Siggy.  Our ability to make good decisions and recognize when content and ISK are available depend on your ability to correctly use this tool.
 
 ## Overview
 
@@ -21,24 +21,15 @@ This guide discusses how to record important information in our wormhole mapping
 
 ## First Time Setup
 
-1. [Register a new Vippy account](http://eve-vippy.com/index.php?register=1).
-    - Your username and email will only be visible to All-Out directors; other members will only see your Eve character names.
-1. Add your character(s) to Vippy with [a new API key](https://community.eveonline.com/support/api-key/update/).
-    - If your All-Out character has *just* entered the corp, you may need a wait a little.
-1. Add Vippy to your list of trusted sites in the IGB
-
-Optional but recommended:
-
-1. Set Vippy as your home page in the IGB
-1. Set Vippy to remember your login info
-
-This means simply hitting `Alt-B` will log you in (which you should be, whenever you're playing).
+1. [Register a new Siggy account](https://siggy.borkedlabs.com/)
+1. Add your character(s) to Siggy 
+1. Choose 'THE-GNOSIS-SENSATION'
 
 ## Scanning a System Properly
 
 ### Before You Begin
 
-1. Make sure you are logged into Vippy in the IGB.
+1. Make sure you are logged into Siggy, you should see your character in home system.
 
 ### Before Your Jump Cloak Breaks
 
@@ -54,8 +45,8 @@ This means simply hitting `Alt-B` will log you in (which you should be, whenever
 ### After Your Jump Cloak Breaks
 
 1. Get to your scanning position, launch your probes and cloak up.
-    - If you have a T1 cloak, scan from a **safe spot**.
-    - If you have a covert ops cloak, scan from a 30km orbit around your entry wormhole.
+    - If you have a T1 cloak, scan from a **safe spot** or random Moon at 100km for speed.
+    - If you have a covert ops cloak, recommend to scout system, then start investigating strucutres while scanning signatures.
 
 ### After You're Cloaked and Secure
 
@@ -90,7 +81,3 @@ This means simply hitting `Alt-B` will log you in (which you should be, whenever
 1. Afer you've done all the scanning and recording for the system, you need to *map* the wormholes to assign actual system names to the dummy boxes:
     1. Jump through each wormhole you have recorded, in designation order, from least to greatest (that is, first `1-11`, then `1-12`, then `1-13`, etc).
     1. Perform all the steps listed in [Before Your Cloak Breaks](#before-your-cloak-breaks) before you jump back into your initial system to continue mapping the other connections.
-
-
-*[IGB]: In-Game Browser
-*[Dscan]: Directional Scanner
