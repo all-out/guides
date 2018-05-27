@@ -35,9 +35,9 @@ if they are in cargo.
 
 ### Proph
 
-
-
 ### Aug
+
+### Rolling Battleships
 
 ### Drake
 
@@ -109,5 +109,18 @@ Mjolnir Light Missile x1000
 Core Scanner Probe I x8
 ```
 
+### Geddon
 
-### Rolling Battleships
+### Dominix
+
+### Rattlesnake
+
+### Bhaalgorn
+
+### Bait Heron
+
+### Scanning/Hacking Frigates (Heron Sample)
+
+### Astero
+
+### Covops Scouts (Buzzard Sample)
