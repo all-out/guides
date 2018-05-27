@@ -54,6 +54,26 @@ core skills would be able to fly this in only a few days extra training.
 
 Make sure you do not run the MWD when not absolutely required, it will drain your capacitor extremely fast.
 
+If you do not have enough fitting to use the light missile launchers, leave them offline. They are primarilly
+used to shoot drones or frigates that may have flown out to tackle you. If you are tackled by a larger ship
+you are likely already dead; try to escape by overheating all ECM modules on any ships disrupting your warp
+while spamming warp to somewhere safe.
+
+Ideally never be closer than 50km to hostiles in this ship, if you are jumping in to a fight on a wormhole you
+should usually warp off then warp back on.
+
+Read up on ECM guides and match the color of your ECM module to the race.
+
+https://wiki.eveuniversity.org/Electronic_Countermeasures
+
+Quick guide including common things we fight below:
+
+Gallente, Stratios, Nestor = Green
+Amarr, Bhaalgorn = Yellow
+Caldari, Rattlesnake, Gila = Blue
+Minmatar, Machariel = Orange
+
+
 ```
 [Blackbird, Standard WH ECM]
 1600mm Rolled Tungsten Compact Plates
