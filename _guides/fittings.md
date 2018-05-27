@@ -50,17 +50,17 @@ if they are in cargo.
 It is strongly recommended that you have IV cruiser, ECM, capacitor and targeting skills before flying this.
 
 All up expect about a two week train to fly a Blackbird well from a very new account. Accounts with solid
-core skills would be able to fly this in only a few days extra training.
+core skills would be able to fly this with only a few days extra training.
 
-Make sure you do not run the MWD when not absolutely required, it will drain your capacitor extremely fast.
-
-If you do not have enough fitting to use the light missile launchers, leave them offline. They are primarilly
+If you do not have enough fitting space to use the light missile launchers, leave them offline. They are primarily
 used to shoot drones or frigates that may have flown out to tackle you. If you are tackled by a larger ship
 you are likely already dead; try to escape by overheating all ECM modules on any ships disrupting your warp
 while spamming warp to somewhere safe.
 
 Ideally never be closer than 50km to hostiles in this ship, if you are jumping in to a fight on a wormhole you
-should usually warp off then warp back on.
+should warp off then warp back on at 70km time permitting. If there is a bubble up, heat your MWD and burn out as fast as possible.
+
+Make sure you do not run the MWD when not required, it will drain your capacitor extremely fast.
 
 Read up on ECM guides and match the color of your ECM module to the race.
 
@@ -72,6 +72,9 @@ Gallente, Stratios, Nestor = Green
 Amarr, Bhaalgorn = Yellow
 Caldari, Rattlesnake, Gila = Blue
 Minmatar, Machariel = Orange
+
+Buy 4 of each of the types of ECM modules and refit as per FC request. If you do not know what to bring to a fight
+the default should be as below.
 
 
 ```
