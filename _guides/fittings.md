@@ -68,10 +68,12 @@ https://wiki.eveuniversity.org/Electronic_Countermeasures
 
 Quick guide including common things we fight below:
 
+```
 Gallente, Stratios, Nestor = Green
 Amarr, Bhaalgorn = Yellow
 Caldari, Rattlesnake, Gila = Blue
 Minmatar, Machariel = Orange
+```
 
 Buy 4 of each of the types of ECM modules and refit as per FC request. If you do not know what to bring to a fight
 the default should be as below.
