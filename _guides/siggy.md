@@ -1,8 +1,8 @@
 ---
 layout: guide
 disabled: false
-title: All-Out Guide to Vippy
-shorttitle: Vippy
+title: All-Out Guide to Siggy
+shorttitle: Siggy
 author: Mussah Yacoub
 excerpt: >
     How to record relevant info in our wormhole mapping software, Vippy.  Our
