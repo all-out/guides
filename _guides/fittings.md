@@ -49,7 +49,8 @@ if they are in cargo.
 
 It is strongly recommended that you have IV cruiser, ECM, capacitor and targeting skills before flying this.
 
-All up expect about a two week train to fly a Blackbird well from a very new account.
+All up expect about a two week train to fly a Blackbird well from a very new account. Accounts with solid
+core skills would be able to fly this in only a few days extra training.
 
 Make sure you do not run the MWD when not absolutely required, it will drain your capacitor extremely fast.
 
