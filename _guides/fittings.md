@@ -41,6 +41,43 @@ if they are in cargo.
 
 ### Drake
 
+This a stock standard fleet brawl drake fit, if drakes are called for you are expected to fly a variation of this. Notice the fit is 625/625 CPU, this is literally the fit the ship was designed around.
+
+The power of the drake is really in its flexability, so feel free to experiment with fits, however you quickly hit fitting limitiations.
+
+You can bait tank with XLASB and more dedicated tank mids, fit disruptors and MJD for kitey, or go full utility mid slots with minimal tank as drakes are often low on primary priority lists.
+
+Consider tweaking fit to use a command burst with spare highslot.
+
+```
+[Drake, Wormhole Brawl]
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Damage Control II
+
+Large Shield Extender II
+Large Shield Extender II
+Adaptive Invulnerability Field II
+50MN Cold-Gas Enduring Microwarpdrive
+Stasis Webifier II
+Warp Scrambler II
+
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+[empty high slot]
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+
+Medium Anti-EM Screen Reinforcer II
+Medium Anti-Thermal Screen Reinforcer II
+Medium Core Defense Field Extender I
+
+Hobgoblin II x5
+```
+
 ### Osprey
 
 ### Gnosis
