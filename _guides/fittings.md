@@ -119,16 +119,17 @@ Core Scanner Probe I x8
 
 Standard fleet fight neut fit below, if somebody asks specifically for a bhaalgorn this is what they are expecting to see.
 
-Assuming you have solid core skills if you are planning to fly a faction battleship, expect this to only take a week to train in to. Amarr BS IV is recommended, V is strong but certainly not a requirement to fly. Minmater BS III is fine as we rarely rely on Bhaalgorns to web despite the fact is is bonused.
+Assuming you have solid core skills if you are planning to fly a faction battleship, expect this to only take a week to train in to. Amarr BS IV is recommended, V is strong but certainly not a requirement to fly. Minmatar BS III is fine as we rarely rely on Bhaalgorns to web despite the fact is is bonused.
 
 When first starting a fight you should run all seven neuts on the same target intially to alpha their capacitor, one cycle will totally remove their capacitor for anything smaller than a battleship. Battleships should be given three cycles. After the first pass, leave a single heavy neut on targets which probably fit injectors (armor), or a single nosferatu on targets which wouldn't (shield). Move the rest of your neuts on to the next target and repeat until you are keeping ~5 targets capped out.
 
-You should loosely focus neuts on the primary target called, however support ships (ECM/Logistics) hould always be higher priority for you in the unlikely event they are in range.
+You should loosely focus neuts on the primary target called, however support ships (ECM/Logistics) should always be higher priority for you in the unlikely event they are in range.
 
 If you are primaried, don't forget to overheat all your lowslot hardeners, this gives a gigantic boost to your tank and they should be able to run heated for up to 5 minutes with proper management.
 
 When you are more confident, swap a midslot module to a ship scanner, this allows you to see hostiles capacitor levels as well as call out any unusual fits you see (bait tanks, guns on ships which shouldn't such as laser nestors).
 
+```
 Keep extra modules to refit:
 7x Heavy Energy Neutralizer
 7x Heavy Energy Nosferatu
@@ -136,6 +137,7 @@ Keep extra modules to refit:
 2x Sensor Booster
 2x Remote Sensor Booster
 500MN Cold-Gas Enduring MWD
+```
 
 ```
 [Bhaalgorn, Fleet Neut]
