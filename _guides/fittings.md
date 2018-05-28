@@ -41,16 +41,45 @@ if they are in cargo.
 
 ### Drake
 
-This a stock standard fleet brawl drake fit, if drakes are called for you are expected to fly a variation of this. Notice the fit is 625/625 CPU, this is literally the fit the ship was designed around.
+This a stock standard fleet brawl drake fit, if drakes are called for you are expected to fly a variation of this. Notice the DPS fit is 625/625 CPU, this is literally the fit the ship was designed around.
 
-The power of the drake is really in its flexability, so feel free to experiment with fits, however you quickly hit fitting limitiations.
+The power of the drake is really in its flexability, so feel free to experiment with fits, however you quickly hit fitting limitiations with T2 launchers. Swapping to meta launchers opens up a huge amount of fit variety without sacrificing much DPS as T2 missile ammo generally sucks in PvP.
 
-You can bait tank with XLASB and more dedicated tank mids, fit disruptors and MJD for kitey, or go full utility mid slots with minimal tank as drakes are often low on primary priority lists.
+You can bait tank with XLASB and more dedicated tank mids, fit disruptors and MJD for kitey, or go full utility mid slots with minimal tank as drakes are often low on killing priority lists.
 
-Consider tweaking fit to use a command burst with spare highslot.
+Coordinate with fleet who is running which burst, have refits of information, skirmish and shield. Only ever use kinetic ammo, if you have T2 lauchers default to loading faction ammo unless shooting other battlecruisers or battleships.
 
 ```
-[Drake, Wormhole Brawl]
+[Drake, Meta Fleet Burst]
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Damage Control II
+
+Large F-S9 Regolith Compact Shield Extender
+Large F-S9 Regolith Compact Shield Extender
+Adaptive Invulnerability Field II
+50MN Y-T8 Compact Microwarpdrive
+Stasis Webifier II
+Warp Scrambler II
+
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+Shield Command Burst I, Shield Harmonizing Charge
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+Prototype 'Arbalest' Heavy Assault Missile Launcher I, Caldari Navy Scourge Heavy Assault Missile
+
+Medium Anti-EM Screen Reinforcer II
+Medium Anti-Thermal Screen Reinforcer II
+Medium Core Defense Field Extender I
+
+Hobgoblin II x5
+```
+
+```
+[Drake, Max DPS]
 Ballistic Control System II
 Ballistic Control System II
 Ballistic Control System II
@@ -63,13 +92,13 @@ Adaptive Invulnerability Field II
 Stasis Webifier II
 Warp Scrambler II
 
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
 [empty high slot]
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
-Heavy Assault Missile Launcher II, Caldari Navy Scourge Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
+Heavy Assault Missile Launcher II, Scourge Rage Heavy Assault Missile
 
 Medium Anti-EM Screen Reinforcer II
 Medium Anti-Thermal Screen Reinforcer II
