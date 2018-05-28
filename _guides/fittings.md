@@ -131,11 +131,13 @@ When you are more confident, swap a midslot module to a ship scanner, this allow
 
 ```
 Keep extra modules to refit:
-7x Heavy Energy Neutralizer
-7x Heavy Energy Nosferatu
+4x Heavy Energy Neutralizer
+4x Heavy Energy Nosferatu
 1x Ship Scanner
 2x Sensor Booster
 2x Remote Sensor Booster
+2x Stasis Webifiers
+1x Warp Disruptor
 500MN Cold-Gas Enduring MWD
 ```
 
