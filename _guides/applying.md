@@ -39,13 +39,9 @@ From the garbled information Satori narrows down the following possibilties:
 What day and time should Satori announce the bash?
 
 #### Risky Rolling
-The bash time is fast approaching and Satori needs start moving ships over.
-
-The current highsec exit is over 30 jump away so he decides to roll for a better connection.
+The bash time is fast approaching and Satori needs start moving ships over. The current highsec exit is over 30 jump away so he decides to roll for a better connection.
 
 Z reported in discord that he was rolling the highsec, siggy confirms he started rolling however the hisec is still up and only reduced.
-
-It is known there is only a 50/50 chance siggy recorded the jump, and in this case it shows 500M mass has gone through.
 
 See attached rolling guide members are instructed to follow: <insert URL here>
 
@@ -53,6 +49,7 @@ Satori is in a hurry to roll as quickly as possible and knows the folling inform
 
 * A cold jump is 200M
 * A hot jump is 300M
+* Siggy has a 50/50 chance of recording a jump
 * This hole has between 1800M - 2200M mass with an even distribution
 * Wormholes reduce at 50% of total mass
 * Wormholes go critical at 10% of total mass
