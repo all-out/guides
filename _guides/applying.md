@@ -74,7 +74,7 @@ Unfortunately for Satori most people fucked off after looting the expensive bits
 Assuming the following scheme is followed:
 
 * 2 shares for finding the target
-* 1 assisting with scouting and hole control
+* 1 share for assisting with scouting and hole control
 * 1 share per day participating in shooting structures
 * 1 share for helping sort loot
 
