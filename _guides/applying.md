@@ -27,7 +27,7 @@ He found a message from X on Tuesday who scouted the target, reporting "The fina
 X lives in Australia and did not state the exact time or make it clear if it was in EVE time (+0) or local time +(10).
 
 Y placed a seed in the hole then dropped off the face of the planet and has not been heard from since.
-His last message stated the citadel came out of reinforce at 26:00 on the bash day, Y is American (-10), it is not clear why he was using Japanese time systems when he doesn't live in Japan.
+His last message stated the citadel came out of reinforce at 26:00 on the bash day, Y is American (-10), it is not clear why he was using a niche Japanese time system.
 
 From the garbled information Satori narrows down the following possibilties:
 
