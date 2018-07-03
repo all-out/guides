@@ -65,6 +65,34 @@ What is the likely risk he rolls himself out on a hot-hot pass?
 * 75%
 * 100%
 
+
+#### Ludicrous Looting
+The bash was a great success! Despite demoralisation on comms and a third of the fleet showing up with the wrong type of tank.
+
+Unfortunately for Satori most people fucked off after looting the expensive bits, leaving him to clean up the rest and distribute shares.
+
+Assuming the following scheme is followed:
+
+* 2 shares for finding the target
+* 1 assisting with scouting and hole control
+* 1 share per day participating in shooting structures
+* 1 share for helping sort loot
+
+Satori trawls through chat logs afterwards and finds the following information:
+
+* Tom scouted the target
+* Harry says he attended one day and doesn't remember seeing Tom
+* Tom did not recall Harry helping with hole control
+* Dick bashed both days
+* Dick says he didn't see Tom helping hole control
+* Harry also says Tom did not help with hole control
+* Tom says he was on his seed alt the whole time and helped bash
+* Harry says he helped loot after the second bash
+* Dick says three people bashed each day
+* Satori is a commie and through some obtuse logic has given up all of his shares so others can get a fair amount
+
+What percent of loot should Tom recieve?
+
 .
 .
 .
