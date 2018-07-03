@@ -31,14 +31,10 @@ His last message stated the citadel came out of reinforce at 26:00 on the bash d
 
 From the garbled information Satori narrows down the following possibilties:
 
-Friday 1200 EVE
-
-Saturday 0200 EVE
-
-Saturday 1200 EVE
-
-Sunday 0200 EVE
-
+* Friday 1200 EVE
+* Saturday 0200 EVE
+* Saturday 1200 EVE
+* Sunday 0200 EVE
 
 What day and time should Satori announce the bash?
 
