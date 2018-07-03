@@ -40,7 +40,7 @@ Saturday 1200 EVE
 Sunday 0200 EVE
 
 
-What day and time does Satori announce the bash?
+What day and time should Satori announce the bash?
 
 .
 .
