@@ -17,7 +17,7 @@ excerpt: >
 
 ### General Questions
 
-We have adopted a new application process, please answer the below questions carefully to demonstrate suitability for a role in our corporation. Include reasoning.
+We have adopted a new application process, please answer the below questions carefully to demonstrate suitability for a role in our corporation, include reasoning.
 
 #### Befuddled Bashing
 
