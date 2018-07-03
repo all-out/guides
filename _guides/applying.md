@@ -41,9 +41,9 @@ What day and time should Satori announce the bash?
 #### Risky Rolling
 The bash time is fast approaching and Satori needs start moving ships over. The current highsec exit is over 30 jump away so he decides to roll for a better connection.
 
-Z reported in discord that he was rolling the highsec, siggy confirms he started rolling however the hisec is still up and only reduced.
+Z reported in discord that he was rolling the highsec, [Siggy](https://all-out.github.io/guides/siggy/) confirms he started rolling however the hisec is still up and only reduced.
 
-See attached rolling guide members are instructed to follow: https://all-out.github.io/guides/rolling-wormholes/
+See attached rolling guide members are instructed to follow: [Rolling Guide](https://all-out.github.io/guides/rolling-wormholes/) 
 
 Satori is in a hurry to roll as quickly as possible and knows the folling information:
 
