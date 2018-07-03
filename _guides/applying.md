@@ -93,40 +93,6 @@ Satori trawls through chat logs afterwards and finds the following information:
 
 What percent of loot should Tom recieve?
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-This section can be waived at a [director](http://all-out.github.io/guides/people/#directors)'s discretion.  If one of them tells you that you don't need to answer these, please **say so in your application** and **include the director's name**.
-
-- What have you been doing in Eve till now?
-- What are you excited about doing in Eve?  What kind of goals do you have?
-- How did you hear about All-Out?
-- What have you heard about All-Out already?
-- (If applicable) How do you feel about the corp you would be leaving? Why are you leaving them?
-- (If applicable) Is there a current or past member of All-Out who can vouch for you or who recommended us to you?
-- Are you USTZ, EUTZ, or AUTZ?  (Or are you a special snowflake of some kind?)
-- Who is you are waifu?
-
-Feel free to include any additional information that you think is relevant.
 
 ### Full API key
 
@@ -136,12 +102,6 @@ No longer required, we have nothing worth stealing now that we live out of Citad
 
 No longer required, Discord does not need a publically visable email address.
 
-
-## General Application Tips
-
-- Avoid one-word answers to the application questions (no need to write a novel, though).
-- Join the in-game chat channel <button class="btn btn-primary btn-xs" type="button" title="Click button in in-game browser to join channel" onclick="CCPEVE.joinChannel('DoomedFromTheStart')">DoomedFromTheStart</button>.  Have it open while you're logged in and playing.  Say hello and that you're interested in checking out the corp.  Chill and chitchat with our members and friends.
-- All Directors are lazy farts and applications take while to check, so displaying demonstrated interest is a plus.  Your app will probably get processed faster if you mention your impatience to a director in the pub channel from time to time.
 
 ## Why Hasn't My Application Been Accepted?
 
@@ -153,7 +113,7 @@ No? Keep reading.
 
 ### Ask a director personally.
 
-If you've included all the information we need and there are no current restrictions and you've talked to us but your application still hasn't been accepted, don't be afraid to mail a director and ask what's up.  Mostly likely we're just busy and haven't gotten around to it and a mail will remind us.  Or there might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt at all to ask.
+If you've included sesible logic in your answers (even if they are wrong), mostly likely we're just busy and haven't gotten around to it and a mail will remind us.  Or there might be some red flags on your app that we need more time to look at or ask you about.  It could be a lot of things; doesn't hurt at all to ask.
 
 *[USTZ]: United States Time Zone
 *[EUTZ]: European Time Zone
