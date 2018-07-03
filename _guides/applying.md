@@ -17,6 +17,53 @@ excerpt: >
 
 ### General Questions
 
+We have adopted a new application process, please answer the below questions carefully to demonstrate suitability for a role in our corporation:
+
+#### Befuddled Bashing
+
+Satori is at work on a Wednesday putting together an announcement for the upcoming bash, however digging through through communication logs he can't determine when the structure comes out of reinforcement.
+
+He found a message from X on Tuesday who scouted the target, reporting "The final timer comes out in 3 days".
+X lives in Australia and did not state the exact time or make it clear if it was in EVE time (+0) or local time +(10).
+
+Y placed a seed in the hole then dropped off the face of the planet and has not been heard from since.
+His last message stated the citadel came out of reinforce at 26:00 on the bash day, Y is American (-10), it is not clear why he was using Japanese time systems when he doesn't live in Japan.
+
+From the garbled information Satori narrows down the following possibilties:
+
+Friday 1200 EVE
+Saturday 0200 EVE
+Saturday 1200 EVE
+Sunday 0200 EVE
+
+What day and time does Satori announce the bash?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This section can be waived at a [director](http://all-out.github.io/guides/people/#directors)'s discretion.  If one of them tells you that you don't need to answer these, please **say so in your application** and **include the director's name**.
 
 - What have you been doing in Eve till now?
