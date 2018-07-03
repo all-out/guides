@@ -43,7 +43,7 @@ The bash time is fast approaching and Satori needs start moving ships over. The 
 
 Z reported in discord that he was rolling the highsec, siggy confirms he started rolling however the hisec is still up and only reduced.
 
-See attached rolling guide members are instructed to follow: <insert URL here>
+See attached rolling guide members are instructed to follow: https://all-out.github.io/guides/rolling-wormholes/
 
 Satori is in a hurry to roll as quickly as possible and knows the folling information:
 
