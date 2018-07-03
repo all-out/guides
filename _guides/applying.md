@@ -8,11 +8,6 @@ excerpt: >
     What you need to do in order to join All-Out.
 ---
 
-## Overview
-
-* TOC
-{:toc}
-
 ## The Application
 
 ### General Questions
