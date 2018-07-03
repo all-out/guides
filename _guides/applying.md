@@ -38,31 +38,27 @@ Sunday 0200 EVE
 
 What day and time does Satori announce the bash?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 This section can be waived at a [director](http://all-out.github.io/guides/people/#directors)'s discretion.  If one of them tells you that you don't need to answer these, please **say so in your application** and **include the director's name**.
 
