@@ -49,7 +49,7 @@ Satori is in a hurry to roll as quickly as possible and knows the folling inform
 
 * A cold jump is 200M
 * A hot jump is 300M
-* Siggy has a 50/50 chance of recording a jump
+* Siggy has a 50/50 chance of recording a jump, in this case 500M is recorded
 * This hole has between 1800M - 2200M mass with an even distribution
 * Wormholes reduce at 50% of total mass
 * Wormholes go critical at 10% of total mass
