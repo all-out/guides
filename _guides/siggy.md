@@ -98,7 +98,7 @@ To do this look at the wormhole in game (default is ''alt-click'') and compare t
 
 Hot tip: You can also tell which region of k-space a wormhole leads to by comparing the visual of the wormhole with the nebulae listed on [this website](https://evetravel.wordpress.com/visible-nebulae-in-new-eden/).
 
-##Additional Intel
+## Additional Intel
 Under the intel tab below the system map in siggy you can also add any POSes or Citadels that you find in a system, including location and owner of the structure, as well as their vulnerability windows.  
 
 You might find this worth your time as it can come in handy in quickly telling you where exactly a POS is located when you need that information, or immediately letting you know who lives in a system if you jump into a system that you already gathered intel for when you previously came across it.
