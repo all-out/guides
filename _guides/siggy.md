@@ -28,11 +28,13 @@ Getting started with Siggy is easy:
 
 ## Mapping Wormholes
 
-Now that you have access to our map, you should be able to see something like this. How do you read all this information?  
+Now that you have access to our map, you should be able to see something like this. How do you read all this information? 
+
 ![siggy_guide1]({{site.baseurl}}/img/siggy_guide1.png)
+
 You should find the home system of All-Out somewhere in the central window, and connected to it there should be more wormholes linking it to other systems.
 
-###Naming Systems
+### Naming Systems
 The naming system we utilize gives each wormhole system a unique name, following this format:   
 *(chain name).(wormhole class)(occurrence)*.
 
@@ -88,7 +90,7 @@ An example of a properly maintained signature list.
 ## Wormhole Identification
 With some experience you can quickly tell which class a wormhole system belongs to just by looking at the wormhole that leads into that system. This helps you in properly bookmarking the wormhole and fully updating the information in siggy, as you can finish scanning an entire system without having to jump the adjacent systems to get all the information you need for proper bookmarking and siggy upkeeping.  
 
-![siggy_guide3]({{site.baseurl}}/img/siggy_guide3.png)
+![siggy_guide3]({{site.baseurl}}/img/siggy_guide3.jpg)
 To do this look at the wormhole in game (default is ''alt-click'') and compare the visual effect with the linked graphic. You might have to spin the wormhole around a bit to get a good view of the effect and definitively tell the class of the system. 
 
 Hot tip: You can also tell which region of k-space a wormhole leads to by comparing the visual of the wormhole with the nebulae listed on [this website](https://evetravel.wordpress.com/visible-nebulae-in-new-eden/).
