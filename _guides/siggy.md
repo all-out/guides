@@ -78,6 +78,7 @@ You can, and should, add all of a system's signatures to siggy:
   + If you check the *delete nonexistent sigs* checkbox any signatures that are saved for the selected system but not part of your current signature list will be automatically deleted. This can be useful to quickly clear up systems that still have old signatures listed from when you previously encountered this system, or to quickly delete any signatures that might have died since you were last in that system.
 
 ![siggy_guide2]({{site.baseurl}}/img/siggy_guide2.png) 
+
 An example of a properly maintained signature list.
 
 **IMPORTANT NOTES:**
