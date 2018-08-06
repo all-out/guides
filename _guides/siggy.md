@@ -5,7 +5,8 @@ title: All-Out Guide to Siggy and Wormhole Mapping
 shorttitle: Siggy and Wormhole Mapping               
 author: A Jung Mann                    
 excerpt: > 
-Instructions on everything you need to know to survive day-to-day wormhole-life with All-Out: How to keep track of your scanning, navigate your way around the wormhole chain, share bookmarks with the rest of the corp, get a GF, etc.              
+  Instructions on everything you need to know to survive day-to-day wormhole-life with All-Out:
+  How to keep track of your scanning, navigate your way around the wormhole chain, share bookmarks with the rest of the corp, get a GF, etc.              
 ---
 
 ## Siggy
@@ -140,7 +141,7 @@ Now that you know how to track all sorts of intel with siggy, here are some more
 
 You should aim to show as little as possible on D-Scan. Always be cloaked, and don't drop probes when you think someone might see them, unless you want them to.
 
-For more tips and reasons to scan, check out this guide on [probing technique] and [how to stop being a faggot].
+For more tips and reasons to scan, check out this guide on [probing technique](https://all-out.github.io/guides/probing-technique/) and [how to stop being a faggot](https://all-out.github.io/guides/stop-being-a-faggot/).
 
 The most important is Nootkin's hot Tip:  
 WHEN YOU JUMP INTO A SYSTEM, IMMEDIATELY DSCAN AT 14.3 AU AND SEE WHAT YOU FIND. PLEASE DO NOT DROP PROBES THE SECOND YOU ENTER SYSTEM, THAT'S THE EASIEST WAY TO SCARE OFF PREY.
