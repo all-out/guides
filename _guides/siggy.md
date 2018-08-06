@@ -9,7 +9,7 @@ Instructions on everything you need to know to survive day-to-day wormhole-life 
 ---
 
 ## Siggy
-https://siggy.borkedlabs.com/(https://siggy.borkedlabs.com/)
+[https://siggy.borkedlabs.com/](https://siggy.borkedlabs.com/)
 
 This is siggy. Siggy is your one true friend in wormhole space. All-Out uses it to map out wormhole chains, mark dangerous holes, keep track of sites in each system, and much more. 
 
