@@ -111,6 +111,49 @@ Hobgoblin II x5
 
 ### Gnosis
 
+### Praxis
+
+C3 solo fit below, confirmed working with 15 minute clears in all C3 sites. Recommend avoiding Outposts with low SP as it tests tank and DPS, other three are very straightforward.
+
+Do not drop MTU at start of sites, spend the first two waves slowboating towards the middle of the site. Near the end of the second wave drop MTU. (You have no drone link unlike most rattle fits, so if they go more than 50km away before drones are on them you fucked up).
+
+```
+[Praxis, Rattlelarp]
+Damage Control II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Capacitor Flux Coil II
+Mark I Compact Capacitor Flux Coil
+Mark I Compact Capacitor Flux Coil
+Mark I Compact Capacitor Flux Coil
+
+Pith B-Type X-Large Shield Booster
+'Stalwart' Particle Field Magnifier
+Adaptive Invulnerability Field II
+Large Compact Pb-Acid Cap Battery
+Adaptive Invulnerability Field II
+Phased Scoped Target Painter
+AML Compact Omnidirectional Tracking Link, Tracking Speed Script
+
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+Core Probe Launcher I, Sisters Core Scanner Probe
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+'Arbalest' Rapid Heavy Missile Launcher I, Inferno Heavy Missile
+
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+Large Capacitor Control Circuit I
+
+Caldari Navy Wasp x4
+Caldari Navy Wasp x2
+Acolyte II x5
+Hornet EC-300 x5
+Inferno Heavy Missile x10000
+```
+
 ### Blackbird
 
 It is strongly recommended that you have IV cruiser, ECM, capacitor and targeting skills before flying this.
