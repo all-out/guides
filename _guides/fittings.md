@@ -119,6 +119,8 @@ Do not drop MTU at start of sites, spend the first two waves slowboating towards
 
 I don't even bother bringing depot/cloak with this fit, its so damn cheap it pays for itself in 1 hour. Note this is designed around alpha skills, so feel free to upgrade to T2 modules and still have a 250m ship which demolishes C3 considering the SP/Isk investment.
 
+Testing was done with 666 DPS (offlined launcher because shit skills), recommend using faction missiles and a CPU implant to drop the Defender Battleships at a reasonable pace (they tank your drones, only drop with missiles on them as well).
+
 ```
 [Praxis, Rattlelarp]
 Damage Control II
