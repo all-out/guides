@@ -113,9 +113,11 @@ Hobgoblin II x5
 
 ### Praxis
 
-C3 solo fit below, confirmed working with 15 minute clears in all C3 sites. Recommend avoiding Outposts with low SP as it tests tank and DPS, other three are very straightforward.
+225m Alpha C3 solo fit below, confirmed working with 15 minute clears in all C3 sites. Recommend avoiding Outposts with low SP as it tests tank and DPS, other three are very straightforward.
 
 Do not drop MTU at start of sites, spend the first two waves slowboating towards the middle of the site. Near the end of the second wave drop MTU. (You have no drone link unlike most rattle fits, so if they go more than 50km away before drones are on them you fucked up).
+
+I don't even bother bringing depot/cloak with this fit, its so damn cheap it pays for itself in 1 hour. Note this is designed around alpha skills, so feel free to upgrade to T2 modules and still have a 250m ship which demolishes C3 considering the SP/Isk investment.
 
 ```
 [Praxis, Rattlelarp]
