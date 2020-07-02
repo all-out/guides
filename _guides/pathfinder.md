@@ -28,7 +28,7 @@ Getting started with Pathfinder is easy:
 
 Now that you have access to our map, you should be able to see something like this. How do you read all this information? 
 
-![pathfinder]({{site.baseurl}}/img/pathfinder.png)
+<img src="/guides/img/pathfinder.png" alt="pathfinder" width="1000">
 
 You should find the home system of All-Out somewhere in the central window, and connected to it there should be more wormholes linking it to other systems.
 
@@ -48,7 +48,7 @@ Knowing all this you can tell that *s3.C5b* is the second class 5 wormhole syste
 
 + Nullsec systems are classified as *NS*, Lowsec systems are classified as *LS*, and Highsec systems are classified as *HS*. 
 + The occurence count for the final letter only takes into account systems that are found within the same chain, i.e. there can be a *s3.C3a* and *s4.C3a* at the same time.
-+ To find more about the naming scheme and how to save boomarks take a look here: [Bookmarks]({{site.baseurl}}/guides/bookmarks/)
++ To find more about the naming scheme and how to save boomarks take a look here: [Bookmarks]({{site.baseurl}}/bookmarks/)
 
 
 ### Adding and Removing Systems
@@ -76,7 +76,7 @@ You can, and should, add all of a system's signatures to pathfinder:
   + Scroll down to just under the map and paste everything in the box next to *Signatures* and hit enter.
   + If you check the *lazy 'delete' signatures* button in signatures box nonexistent signatures of your current system list will be automatically deleted. This can be useful to quickly clear up systems that still have old signatures listed from when you previously encountered this system, or to quickly delete any signatures that might have died since you were last in that system.
 
-![pathfinder2]({{site.baseurl}}/img/pathfinder2.png) 
+<img src="/guides/img/pathfinder2.png" alt="pathfinder2" width="1000">
 
 An example of a properly maintained signature list.
 
