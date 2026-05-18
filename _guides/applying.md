@@ -48,7 +48,7 @@ Satori is in a hurry to roll as quickly as possible and knows the folling inform
 * This hole has between 1800M - 2200M mass with an even distribution
 * Wormholes reduce at 50% of total mass
 * Wormholes go critical at 10% of total mass
-* All-Out members rarely read instructions
+* All-Out members rarely read instructions, and make decisions at random
 
 What is the likely risk he rolls himself out on a hot-hot pass?
 
